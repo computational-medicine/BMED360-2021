@@ -25,7 +25,7 @@ You will find more (static) information about this course at [MittUiB](https://m
 
 
 
-# Setting up your system (preparation to the course)
+# Setting up your system (preparations for the course)
 
 **Follow the instructions at [Setting up your system](setup.md) (`setup.md`) to get ready**
 
