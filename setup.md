@@ -60,8 +60,6 @@ conda install git
 ```bash
 git clone https://github.com/computational-medicine/BMED360-2021
 cd BMED360-2021
-# git clone https://github.com/arvidl/BMED360-2021-dev
-# cd BMED360-2021-dev
 ```
 ### Configure the Python-environment:
 ```bash
