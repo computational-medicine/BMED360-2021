@@ -1,4 +1,4 @@
-# In Vivo Imaging and Physiological Modelling - BMED 360 Spring 2020
+# In Vivo Imaging and Physiological Modelling - BMED 360 Spring 2021
 
 
 ![BMED360 outbreak_science_image](../assets/outbreak-science-logo.png)
