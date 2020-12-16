@@ -21,8 +21,8 @@
 5. The document produced in 3. must be sent by email to the course coordinator at latest 2 hours before the exam.<br>  (You can ask for advice regarding the selected topic or your talk in the early preparation phase)
 
 
-6. At the oral exam (20 min talk using  Zoom, Google Hangouts, or Skype), the following criteria are **assessed**:
+6. At the oral exam (20 min talk using Zoom), the following criteria are **assessed**:
 _scientific attitude_, _vocabulary_, and _balanced use of text, tables, and figures_; _clarity in presentation_ regarding problem formulation / introduction, methods description, results (if any), discussion, and conclusions; ability to bring enthusiasm for your topic to the audience; keeping time.<br>
 Share your presentation with the examiner / sensor before the exam (see 5.).
 
-7.   Grading (spring 2020) is pass / no pass    (previously: grading scale was A-F)
+7.   Grading (spring 2021) is pass / no pass    (previously: grading scale was A-F)
