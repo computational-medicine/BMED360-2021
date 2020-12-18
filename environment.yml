@@ -35,7 +35,7 @@ dependencies:
   - nibabel
   - nilearn
   - dipy
-  - pyradiomics
+#  - pyradiomics
   - opencv-python
   - SimpleITK
   - osfclient
