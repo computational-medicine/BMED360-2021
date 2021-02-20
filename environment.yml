@@ -5,6 +5,7 @@ dependencies:
 - conda-forge::jupyter_contrib_nbextensions
 - conda-forge::jupyterlab
 - conda-forge::statsmodels
+- conda-forge::biopandas
 - descartes
 - geopandas
 - geojson
