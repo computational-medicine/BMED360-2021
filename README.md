@@ -2,7 +2,7 @@
 
 ## ( with [_ad hoc_](./outbreak-science/README_outbr_sci.md) curriculum* on COVID-19 and "outbreak science" )
 
-[Work in progress ver. 2020-12-16]
+[Work in progress ver. 2021-03-20]
 
 ![BMED360 image](./assets/bmed360_logo.png)
 
@@ -95,7 +95,7 @@ Throughout the course you will work with notebooks that contain various material
 <tr>
 <td>&nbsp;BLOCK 1</td>
 <td>&nbsp;Day 1 (April 20)</td>
-<td>&nbsp;Lec 0, [Lec 1]</td>
+<td>&nbsp;Lec 0, Lec 1</td>
 <td>&nbsp;Lab &nbsp;1</td>
 </tr>
 <tr>
