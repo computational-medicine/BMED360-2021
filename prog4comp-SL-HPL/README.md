@@ -73,3 +73,13 @@ complex software, avoiding pitfalls, and become a safe user.
 **NOTE**: If you install Anaconda (as you have), the only additional package you "need" (i.e. recommended*) for running all the software in the present book, is `Odespy`(https://github.com/thomasantony/odespy/tree/py36/odespy) to demonstrate how ordinary differential equations alternatively may be solved with ready-made software.
 
 *) only `NumPy`, `Matplotlib`, `IPython`, and `SymPy` (symbolic mathematics) are required
+
+***
+
+Trying to convert selected .py files to .ipynb using [ipynb-py-convert](https://github.com/kiwi0fruit/ipynb-py-convert)
+
+`conda install -c defaults -c conda-forge ipynb-py-convert`
+
+e.g.
+
+`ipynb-py-convert src/Newton_demo.py notebooks/Newton_demo.ipynb``
