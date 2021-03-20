@@ -74,7 +74,7 @@ complex software, avoiding pitfalls, and become a safe user.
 
 *) only `NumPy`, `Matplotlib`, `IPython`, and `SymPy` (symbolic mathematics) are required
 
-You will frequently also need `SciTools` (https://github.com/hplgit/scitools) - a Python package containing lots of useful tools for scientific computing in Python.
+You will frequently also need `SciTools` (https://github.com/hplgit/scitools) - a Python package containing lots of useful tools for scientific computing in Python.<br>
 This is Python 2.7, so you will need `SciTools3` (https://github.com/onnoeberhard/scitools3) with installion `pip install scitools3` (none of these are maintained).
 
 ***
