@@ -82,4 +82,4 @@ Trying to convert selected .py files to .ipynb using [ipynb-py-convert](https://
 
 e.g.
 
-`ipynb-py-convert src/Newton_demo.py notebooks/Newton_demo.ipynb``
+`ipynb-py-convert src/Newton_demo.py notebooks/Newton_demo.ipynb`
