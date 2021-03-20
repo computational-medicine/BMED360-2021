@@ -196,6 +196,10 @@ Throughout the course you will work with notebooks that contain various material
 
 **Syllabus at MittUiB** (https://mitt.uib.no/courses/27782/assignments/syllabus)
 
+<p align="center">
+  <img src="./assets/bmed360v2021_syllabus.png" width="350" title="BMED360 syllabus">
+</p>
+
 ![BMED360 syllabus](./assets/bmed360v2021_syllabus.png)
 
 
