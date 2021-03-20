@@ -200,10 +200,10 @@ Throughout the course you will work with notebooks that contain various material
   <img src="./assets/bmed360v2021_syllabus.png" width="350" title="BMED360 syllabus">
 </p>
 
-![BMED360 syllabus](./assets/bmed360v2021_syllabus.png)
-
 
 <!--
+
+![BMED360 syllabus](./assets/bmed360v2021_syllabus.png.png)
 
 
 **[[Schedule](https://docs.google.com/presentation/d/1QmLPof1lMRLO7JJ7fk_dvqsJUQ89pBKZNwDXy6V20rM/edit?usp=sharing)] for Block2 (June 3-7, 2019)**
