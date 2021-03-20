@@ -194,7 +194,13 @@ Throughout the course you will work with notebooks that contain various material
 <p>&nbsp;</p>
 
 
+**Syllabus at MittUiB** (https://mitt.uib.no/courses/27782/assignments/syllabus)
+
+![BMED360 syllabus](./assets/bmed360v2021_syllabus.png)
+
+
 <!--
+
 
 **[[Schedule](https://docs.google.com/presentation/d/1QmLPof1lMRLO7JJ7fk_dvqsJUQ89pBKZNwDXy6V20rM/edit?usp=sharing)] for Block2 (June 3-7, 2019)**
 
