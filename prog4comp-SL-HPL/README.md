@@ -76,9 +76,9 @@ complex software, avoiding pitfalls, and become a safe user.
 
 ***
 
-*SciTools* by HPL et al.<br>
-You will frequently also need `SciTools` (https://github.com/hplgit/scitools) - a Python package containing lots of useful tools for scientific computing in Python.
-This is Python 2.7, so you will need `SciTools3` (https://github.com/onnoeberhard/scitools3) <br> with installion `pip install scitools3` (none of these are maintained).
+**SciTools** by HPL et al.<br>
+You will in some cases need `SciTools` (https://github.com/hplgit/scitools) - a Python package containing lots of useful tools for scientific computing in Python.
+This is Python 2.7, so you will need `SciTools3` (https://github.com/onnoeberhard/scitools3) <br> with installion `pip install scitools3` (none of these are maintained or supported).
 
 ***
 
@@ -88,4 +88,4 @@ Trying to convert selected .py files to .ipynb using [ipynb-py-convert](https://
 
 e.g.
 
-`ipynb-py-convert src/Newton_demo.py notebooks/Newton_demo.ipynb`
+`ipynb-py-convert src/Taylor_exp.py notebooks/Taylor_exp.ipynb`   (with some editing due to package updates)
