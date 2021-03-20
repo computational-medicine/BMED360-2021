@@ -95,7 +95,7 @@ Throughout the course you will work with notebooks that contain various material
 <tr>
 <td>&nbsp;BLOCK 1</td>
 <td>&nbsp;Day 1 (April 20)</td>
-<td>&nbsp;Lec 0, [Lec 1](https://docs.google.com/presentation/d/1fZEID0NKFBdtMsQgzMuNwpvaUa-y7LAIihpap0Y3Q20/edit#slide=id.p1)</td>
+<td>&nbsp;Lec 0, [Lec 1]</td>
 <td>&nbsp;Lab &nbsp;1</td>
 </tr>
 <tr>
