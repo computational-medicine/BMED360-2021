@@ -68,7 +68,7 @@ Throughout the course you will work with notebooks that contain various material
 - **Lab 3**: Processing of diffusion MRI (dMRI / DTI)  [[DIPY](https://dipy.org)]  [[README](./diffusion/README_diff.md)] [[01-diff](./diffusion/01-diff-random-walks.ipynb)] [[02-diff](./diffusion/02-diff-dipy-S0s.ipynb)] [[03-diff](./diffusion/03-diff-dipy-find-affine-brainmask2dwi.ipynb)] [[04-diff](./diffusion/04-diff-dipy-reconstruction-dti.ipynb)] [[05-diff](./diffusion/05-diff-dipy-do-affine-reg-anat2dwi.ipynb)] [[06-diff](./diffusion/06-diff-dipy-dti-feature-extraction-roi-wise.ipynb)]
 - **Lab 4**: Processing of perfusion MRI (pMRI / DSC-MRI)  [[README](./perfusion/README_perf.md)] [[01-perf](./perfusion/01-perf-explore.ipynb)]
 - **Lab 5**: Vascular permeability mapping (DCE-MRI) [[README](./permeability/README_perm.md)]
-- **Lab 6**: Network science and Graphs 
+- **Lab 6**: Network science and Graphs [[01-Concepts-in-network-theory](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab6-Networks-Graphs/01-Concepts-in-network-theory.ipynb)]  [[02-Network-based-statistics](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab6-Networks-Graphs/02-Network-based-statistics.ipynb)]
 
 
 
