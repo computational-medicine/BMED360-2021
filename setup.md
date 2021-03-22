@@ -82,7 +82,7 @@ You can (preferably) consider to use [JupyterLab](https://github.com/jupyterlab/
 
 
 ### Test you installation:
-Go through the notebook `0.0-test-installation.ipynb` in the `test-notebooks`-directory:
+Go through the notebook [`0.0-test-installation.ipynb`](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/test-notebooks/0.0-test-installation.ipynb) in the `test-notebooks`-directory:
 ```bash
 cd test-notebooks
 jupyter notebook  (or, jupyter lab)
