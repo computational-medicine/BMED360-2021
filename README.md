@@ -2,7 +2,7 @@
 
 ## ( with [_ad hoc_](./outbreak-science/README_outbr_sci.md) curriculum* on COVID-19 and "outbreak science" )
 
-[Work in progress ver. 2021-03-20]
+[Work in progress ver. 2021-03-22]
 
 ![BMED360 image](./assets/bmed360_logo.png)
 
