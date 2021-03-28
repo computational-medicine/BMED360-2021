@@ -23,6 +23,8 @@ The goal of this course is to obtain theoretical and practical knowledge on func
 You will find more (static) information about this course at [MittUiB](https://mitt.uib.no/courses/27782)
 
 
+This repository on Colab: http://colab.research.google.com/github/computational-medicine/BMED360-2021
+
 
 
 # Setting up your system (preparations for the course)
