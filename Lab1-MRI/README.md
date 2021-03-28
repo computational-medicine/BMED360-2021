@@ -3,6 +3,10 @@
 
 ## _MRI_
 
+### 00-get-mri-imc-data.ipynb
+Colab: https://colab.research.google.com/github/computational-medicine/BMED360-2021/blob/main/Lab1-MRI/00-get-mri-imc-data.ipynb
+
+
 ### Introductory videos
 - **How Does an MRI Scan Work?** 1:20 (https://youtu.be/1CGzk-nV06g)
 - **MRI vs. CT** 2:31 (https://youtu.be/aQZ8tTZnQ8A)
