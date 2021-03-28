@@ -1,0 +1,38 @@
+Short Name,Antigen,Main Target Cells,Metal Tag
+INS,Insulin,β,141Pr
+PIN,Proinsulin,β,154Sm
+GCG,Glucagon,α,156Gd
+SST,Somatostatin,δ,159Tb
+PPY,Pancreatic polypeptide,γ,153Eu
+NKX6-1,Homeobox protein Nkx-6.1,β,169Tm
+PDX1,Pancreatic and duodenal homeobox 1,β δ ductal,158Gd
+IAPP,Amylin,β,167Er
+PCSK2,Proprotein convertase 2,α,144Nd
+SYP,Synaptophysin,Endocrine,160Gd
+CD99,CD99,Endocrine,145Nd
+SLC2A1,Glucose transporter 1,Endocrine,148Nd
+PTPRN,Receptor-type tyrosine-protein phosphatase-like N,Endocrine,174Yb
+AMY2A,Pancreatic amylase,Acinar,150Nd
+KRT19,Cytokeratin 19,Ductal,161Dy
+CD44,CD44,Exocrine,143Nd
+CD45,CD45,Immune,162Dy
+CD45RA,CD45RA,Immune,164Dy
+CD3e,CD3ɛ,T,152Sm
+CD4,CD4,Helper T,171Yb
+CD8a,CD8a,Cytotoxic T,165Ho
+CD20,CD20,B,149Sm
+CD68,CD68,Monocytes macrophages,146Nd
+MPO,Myeloperoxidase,Neutrophils,147Sm
+FOXP3,Forkhead box P3,Regulatory T,163Dy
+CD38,CD38,Immune,142Nd
+CDH,E-/P-cadherin,Epithelial,173Yb
+CD31,CD31,Endothelial,172Yb
+SMA,Smooth muscle actin,Stromal,115In
+KI-67,Ki-67,Proliferating,168Er
+pH3,Phospho-histone H3,Proliferating,170Er
+pRB1,Phospho-retinoblastoma,Cycling,175Yb
+cPARP1,Cleaved caspase 3 + cleaved poly (ADP-ribose) polymerase,Apoptotic,176Yb
+CA9,Carbonic anhydrase IX,Hypoxic,166Er
+H3,Histone H3,Nuclei,113In
+Ir191,(DNA intercalators),DNA,191Ir
+Ir193,(DNA intercalators),DNA,193Ir
