@@ -3,8 +3,39 @@
 
 ## _MRI_
 
-### 00-get-mri-imc-data.ipynb
+### Download the IMC and MRI data from Goggle Drive cloud: 
+
+## [00-get-mri-imc-data.ipynb](./00-get-mri-imc-data.ipynb)
 Colab: https://colab.research.google.com/github/computational-medicine/BMED360-2021/blob/main/Lab1-MRI/00-get-mri-imc-data.ipynb
+
+
+```
+2-biomedical_imaging % tree data
+data
+├── imc
+│   ├── E08_a0_full.csv
+│   ├── E08_a0_full.tiff
+│   ├── E08_a0_panel_data_and_channel_numbering.csv
+│   └── table1_IMC_panel_37x4.csv
+└── mri
+    ├── 0.0-test_nifti.nii.gz
+    ├── brain_roi_mask.nii.gz
+    ├── dess_060.dcm
+    ├── dess_060.nii.gz
+    ├── fisp_060.dcm
+    ├── fisp_060.nii.gz
+    ├── flash_060.dcm
+    ├── flash_060.nii.gz
+    ├── flash_060_brain_mask.png
+    ├── flash_060_training_mask_6cla.png
+    ├── mni_icbm152_t1_tal_nlin_sym_09c.nii.gz
+    ├── multispectral_mri.nii.gz
+    ├── multispectral_mri_training_data.csv
+    ├── multispectral_mri_training_data_from_nifti_mask.csv
+    ├── psif_060.dcm
+    ├── psif_060.nii.gz
+    └── training_mask_1_6.nii.gz
+```
 
 
 ### Introductory videos
