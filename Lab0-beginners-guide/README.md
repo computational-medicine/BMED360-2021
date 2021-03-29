@@ -15,7 +15,9 @@
 
 
 
-- [02-begin-pandas-basics.ipynb](./02-begin-pandas-basics.ipynb)
+- [02-begin-pandas-basics.ipynb](./02-begin-pandas-basics.ipynb)<a href="https://colab.research.google.com/github/computational-medicine/BMED360-2021/blob/main/Lab0-beginners-guide/02-begin-pandas-basics.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 
 - [03-begin-image_processing_basics.ipynb](./03-begin-image_processing_basics.ipynb)
