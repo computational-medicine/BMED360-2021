@@ -9,7 +9,9 @@
 </a>
 
 
-- [01-jupyter-notebook-markdown-basics.ipynb](./01-jupyter-notebook-markdown-basics.ipynb)
+- [01-jupyter-notebook-markdown-basics.ipynb](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab0-beginners-guide/01-jupyter-notebook-markdown-basics.ipynb) <a href="https://colab.research.google.com/github/computational-medicine/BMED360-2021/blob/main/Lab0-beginners-guide/01-jupyter-notebook-markdown-basics.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 
 
