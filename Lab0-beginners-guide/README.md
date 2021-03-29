@@ -4,7 +4,7 @@
 ## Beginners guide to Python and friends
 
 
-- [00-begin-python-programming-language.ipynb](./00-begin-python-programming-language.ipynb)<a href="https://colab.research.google.com/github/computational-medicine/BMED360-2021/blob/main/Lab0-beginners-guide/00-begin-python-programming-language.ipynb">
+- [00-begin-python-programming-language.ipynb](./00-begin-python-programming-language.ipynb) <a href="https://colab.research.google.com/github/computational-medicine/BMED360-2021/blob/main/Lab0-beginners-guide/00-begin-python-programming-language.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
