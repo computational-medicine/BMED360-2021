@@ -52,17 +52,10 @@ To further practice your skills in Python check and register for https://practic
 
 -------------------
 
-- [03-begin-image_processing_basics.ipynb](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab0-beginners-guide/02-begin-image-processing-basics.ipynb)<a href="https://colab.research.google.com/github/computational-medicine/BMED360-2021/blob/main/Lab0-beginners-guide/02-begin-image-processing-basics.ipynb">
+- [03-begin-image_processing_basics.ipynb](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab0-beginners-guide/03-begin-image_processing_basics.ipynb)<a href="https://colab.research.google.com/github/computational-medicine/BMED360-2021/blob/main/Lab0-beginners-guide/03-begin-image_processing_basics.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
 
 ------
 
-- https://colab.research.google.com/notebooks/welcome.ipynb
-- https://colab.research.google.com/notebooks/intro.ipynb
-- https://colab.research.google.com/notebooks/io.ipynb
-- https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb
-- https://course.fast.ai/start_colab
-
-To create a new Notebook on Colab, open https://colab.research.google.com/, and it will automatically show your previous notebooks and give an option to create a new notebook.
