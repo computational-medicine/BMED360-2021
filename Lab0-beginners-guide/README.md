@@ -21,7 +21,7 @@ Excerpts from Tim J. Stevens: _The Python Programming Language_ in : A. Hofmann 
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-### Learning outcome
+#### Learning outcome
 
 **Be able to read and construct code related to the core Python language concepts:**
 
@@ -36,17 +36,21 @@ Excerpts from Tim J. Stevens: _The Python Programming Language_ in : A. Hofmann 
 
 To further practice your skills in Python check and register for https://practice.datacamp.com/p <br>(https://www.datacamp.com/onboarding/learn?technology=python)
 
+------------------
+
 
 - [01-jupyter-notebook-markdown-basics.ipynb](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab0-beginners-guide/01-jupyter-notebook-markdown-basics.ipynb) <a href="https://colab.research.google.com/github/computational-medicine/BMED360-2021/blob/main/Lab0-beginners-guide/01-jupyter-notebook-markdown-basics.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
 
+-------------------
 
 - [02-begin-pandas-basics.ipynb](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab0-beginners-guide/02-begin-pandas-basics.ipynb)<a href="https://colab.research.google.com/github/computational-medicine/BMED360-2021/blob/main/Lab0-beginners-guide/02-begin-pandas-basics.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+-------------------
 
 - [03-begin-image_processing_basics.ipynb](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab0-beginners-guide/02-begin-image-processing-basics.ipynb)<a href="https://colab.research.google.com/github/computational-medicine/BMED360-2021/blob/main/Lab0-beginners-guide/02-begin-image-processing-basics.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
