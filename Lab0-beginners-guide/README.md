@@ -15,7 +15,7 @@ Excerpts from Tim J. Stevens: _The Python Programming Language_ in : A. Hofmann 
 > Even if you don't intend to use Python in the long-run or for all programming work [in some cases [R](https://www.r-project.org) could be an alternative], it nonetheless serves as a good starting point to learn some of the major principles of many modern computing languages.
 > 
 
-
+----------------------
 
 - [00-begin-python-programming-language.ipynb](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab0-beginners-guide/00-begin-python-programming-language.ipynb) <a href="https://colab.research.google.com/github/computational-medicine/BMED360-2021/blob/main/Lab0-beginners-guide/00-begin-python-programming-language.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
