@@ -69,11 +69,15 @@ chmod +x ./dcm2niix
 ./dcm2niix -h
 ```
 ```python
+# DCMCONVERT = !which dcm2niix
+DCMCONVERT = ['./dcm2niix']
+```
+```python
 def kiwi_dcm2niix(dcm_dir, nii_dir):
 
     pathlib.Path(nii_dir).mkdir(parents=True, exist_ok=True)
     cmd = [
-        './dcm2niix',
+        DCMCONVERT[0],
         '-d', '9',
         '-b', 'y',
         '-m', 'n',
