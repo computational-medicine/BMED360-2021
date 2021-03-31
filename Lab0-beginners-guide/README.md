@@ -57,7 +57,7 @@ To further practice your skills in Python check and register for https://practic
 </a>
 
 
-On COLAB:
+On Colab:
 
 ```python
 !curl -fLO https://github.com/rordenlab/dcm2niix/releases/latest/download/dcm2niix_lnx.zip
