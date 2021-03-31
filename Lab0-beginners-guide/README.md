@@ -59,14 +59,16 @@ To further practice your skills in Python check and register for https://practic
 
 On COLAB:
 
-```bash
+```python
 !curl -fLO https://github.com/rordenlab/dcm2niix/releases/latest/download/dcm2niix_lnx.zip
 shutil.unpack_archive('dcm2niix_lnx.zip', '.')
-
+```
+```python
 %%bash
 chmod +x ./dcm2niix
 ./dcm2niix -h
-
+```
+```python
 def kiwi_dcm2niix(dcm_dir, nii_dir):
 
     pathlib.Path(nii_dir).mkdir(parents=True, exist_ok=True)
