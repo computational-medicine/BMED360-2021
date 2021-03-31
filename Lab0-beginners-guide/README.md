@@ -58,6 +58,40 @@ To further practice your skills in Python check and register for https://practic
 
 
 On COLAB:
+
+```bash
+!curl -fLO https://github.com/rordenlab/dcm2niix/releases/latest/download/dcm2niix_lnx.zip
+shutil.unpack_archive('dcm2niix_lnx.zip', '.')
+
+%%bash
+chmod +x ./dcm2niix
+./dcm2niix -h
+
+def kiwi_dcm2niix(dcm_dir, nii_dir):
+
+    pathlib.Path(nii_dir).mkdir(parents=True, exist_ok=True)
+    cmd = [
+        './dcm2niix',
+        '-d', '9',
+        '-b', 'y',
+        '-m', 'n',
+        '-s', 'n',
+        '-t', 'n',
+        '-x', 'n',
+        '-w', '1',
+        '-z', 'y',
+        '-i', 'y',
+        '-f', 'kiwi_%t_%s_%p', 
+        '-o', nii_dir,
+        dcm_dir]
+
+    cmd_str = " ".join(cmd)
+    output = subp.check_output(cmd)  # import subprocess as subp
+    print(f'output: {output} \n')
+    #print('cmd_str = \n%s\n' % cmd_str)
+    #os.system(cmd_str)
+```
+or
 ```bash
 !pip install nipype
 
