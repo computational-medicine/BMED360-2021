@@ -57,5 +57,18 @@ To further practice your skills in Python check and register for https://practic
 </a>
 
 
+On COLAB:
+```bash
+!pip install nipype
+
+from nipype.interfaces.dcm2nii import Dcm2niix
+ 
+converter = Dcm2niix()
+converter.inputs.source_dir = os.path.abspath(where_the_data_locate)
+converter.inputs.output_dir = os.path.abspath(where_you_want_put_the_data_into)
+converter.inputs.single_file = True
+converter.cmdline
+temp = converter.run()
+``` 
 ------
 
