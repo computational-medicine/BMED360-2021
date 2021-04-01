@@ -23,8 +23,7 @@ The goal of this course is to obtain theoretical and practical knowledge on func
 You will find more (static) information about this course at [MittUiB](https://mitt.uib.no/courses/27782)
 
 
-This repository on Google Colaboratory ([Colab](https://research.google.com/colaboratory/faq.html)): http://colab.research.google.com/github/computational-medicine/BMED360-2021<br>
-See also the individual Jupyter notebooks for execution on Colab
+This repository on Google Colaboratory ([Colab](https://research.google.com/colaboratory/faq.html)): http://colab.research.google.com/github/computational-medicine/BMED360-2021. See also the individual Jupyter notebooks for execution on Colab
 
 
 
@@ -37,6 +36,10 @@ See also the individual Jupyter notebooks for execution on Colab
 
 # Notebooks
 The course is based on the Jupyter Notebook, a web-based framework for developing and presenting code-based projects (take a look at https://youtu.be/HW29067qVWk og https://youtu.be/2eCHD6f_phE for introductions to Jupyter Notebooks).
+
+
+### Google Collaboratory (Colab)
+This repository is also available on Google Colaboratory ([Colab](https://research.google.com/colaboratory/faq.html)): http://colab.research.google.com/github/computational-medicine/BMED360-2021. See also the individual Jupyter notebooks for execution on Colab - a hosted Jupyter notebook service that requires no setup to use, while providing free access to computing resources including GPUs.
 
 ### IMPORTANT (for making your own notebooks for coding experiments without conflict)
 Throughout the course you will work with notebooks that contain various material and programming tasks. We recommend that you *make a copy of our notebooks before you are editing them*. In this respect you might adopt the naming convention `my_[name_of_notebook].ipynb`. Remember also to start a new session with a **`git pull`** (things can have changed).
