@@ -13,7 +13,7 @@
 From the course website [https://github\.com/computational\-medicine/BMED360\-2021](https://github.com/computational-medicine/BMED360-2021)
 download the [KIWI](http://en.wikipedia.org/wiki/Kiwi_(fruit)) fruit data as [DICOM](https://www.dicomstandard.org) files (mentioned in [this](https://github.com/computational-medicine/BMED360-2021/tree/master/Lab0-beginners-guide/03-begin-image_processing_basics.ipynb) Lab0 Jupyter notebook), or as a single [NIFTI](https://github.com/computational-medicine/BMED360-2021/tree/master/midterm-project/data) file.
 
-## [Data](https://github.com/computational-medicine/BMED360-2021/tree/master/midterm-project/data)
+## Data description
 
 The 3D dataset, consisting of 128 transaxial slices through the long axis of
 the kiwi, was acquired with the 7 T [Bruker Pharmascan](https://www.bruker.com/en/products-and-solutions/preclinical-imaging/mri/pharmascan-new.html) MRI scanner at the *Molecular Imaging Center* ([MIC/Vivarium](https://wikihost.uib.no/mriwiki/index.php/Main_Page)), University of Bergen, using the 2D [RARE](http://www.mr-tip.com/serv1.php?type=seq&sub=12) pulse sequence
