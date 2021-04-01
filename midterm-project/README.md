@@ -31,9 +31,9 @@ From your segmentation results:
 
 - Make an estimate of the number of seeds in the Kiwi.
 - If you are using probabilistic methods you might also provide a confidence interval for your estimate.
-- Try to assess the **goodness of your segmentation method**  by cutting out a portion of the volume (e.g. some contiguous slices) and do a manual count of the number of seeds and compare with your segmentation results (e.g. false positive detections, false negative detections).
+- Try to assess the **goodness of your segmentation method**  by cutting out a portion of the volume (e.g. some contiguous slices) and do a manual count of the number of seeds and compare with your segmentation results (e.g. *false positive detections*, *false negative detections*).
 - Now, consider the Kiwi to be the brain and the seeds to be pathological lesions, such as [MS plaques](https://www.ncbi.nlm.nih.gov/pubmed/23084503). 
-- Make an estimate of the “lesion load” i.e. the ratio: volume of lesions (seeds) / volume of whole brain (kiwi), using the voxel size information from the scan and your segmentation results.
+- Make an estimate of the [“lesion load”](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0120754) i.e. the ratio: volume of lesions (seeds) / volume of whole brain (kiwi), using the voxel size information from the scan and your segmentation results.
 
 
 ## Report
