@@ -10,31 +10,17 @@
 
 ## [Problem formulation](https://docs.google.com/presentation/d/1B_E-Pcwfvj3hgG2o02vsxmez_Bm6x72uI5tzIu0dymU/edit?usp=sharing)
 
-__From the course website\,__  <span style="color:#0000FF"> _[https://github\.com/computational\-medicine/BMED360\-2020](https://github.com/computational-medicine/BMED360-2020)_ </span>
-
-__download the__  <span style="color:#0000FF"> _[KIWI](http://en.wikipedia.org/wiki/Kiwi_(fruit))_ </span>  __fruit data \(__  <span style="color:#0000FF"> _[DICOM](https://github.com/computational-medicine/BMED360-2020/tree/master/beginners-guide/kiwi-dcm)_ </span>  __files or the__  _[NIFTI](https://github.com/computational-medicine/BMED360-2020/tree/master/midterm-project/data)_  __file\)__
-
-__The 3D dataset\, consisting of 128 transaxial slices through the long axis of__
-
-__the kiwi\, was acquired with the 7 T__  <span style="color:#0000FF"> _[Bruker Pharmascan](http://www.bruker-biospin.com/pharmascan.html)_ </span>  __MRI scanner at the__
-
-<span style="color:#0000FF"> _[MIC](http://www.uib.no/rg/mic)_ </span>  __/ Vivarium\, University of Bergen\, using the 2D__  <span style="color:#0000FF"> _[RARE](http://www.mr-tip.com/serv1.php?type=seq&sub=12)_ </span>  __pulse sequence__
-
-__\(Echo Train Length = 8\, TR = 18520 ms\, TE = 63\.9 ms\, No\. of Averages = 2\,__
-
-__Flip Angle = 180 deg\, Slice thickness = 0\.5 mm\, In\-plane pixel resolution =__
-
-__0\.234 x 0\.234 mm__  __2__  __\,  Acquisition matrix = 256 x 256\, Number of slices = 128\)\.__
-
+From the course website [https://github\.com/computational\-medicine/BMED360\-2021](https://github.com/computational-medicine/BMED360-2021)
+download the [KIWI](http://en.wikipedia.org/wiki/Kiwi_(fruit)) fruit data \([DICOM](https://github.com/computational-medicine/BMED360-2021/tree/master/Lab0- beginners-guide/kiwi-data) files or the [NIFTI](https://github.com/computational-medicine/BMED360-2021/tree/master/midterm-project/data) file.
 
 ## [Data](https://github.com/computational-medicine/BMED360-2020/tree/master/midterm-project/data)
 
 The 3D dataset, consisting of 128 transaxial slices through the long axis of
-the kiwi, was acquired with the 7 T Bruker Pharmascan MRI scanner at the 
-MIC / Vivarium, University of Bergen, using the 2D RARE pulse sequence
+the kiwi, was acquired with the 7 T [Bruker Pharmascan](http://www.bruker-biospin.com/pharmascan.html) MRI scanner at the 
+[MIC](http://www.uib.no/rg/mic) / Vivarium, University of Bergen, using the 2D [RARE](http://www.mr-tip.com/serv1.php?type=seq&sub=12) pulse sequence
 (Echo Train Length = 8, TR = 18520 ms, TE = 63.9 ms, No. of Averages = 2,
 Flip Angle = 180 deg, Slice thickness = 0.5 mm, In-plane pixel resolution =
-0.234 x 0.234 mm^2,  Acquisition matrix = 256 x 256, Number of slices = 128).
+0.234 x 0.234 mm$^2$,  Acquisition matrix = 256 x 256, Number of slices = 128).
 
 ## Tentative methods
 [Segment](https://en.wikipedia.org/wiki/Image_segmentation) the seeds from the background using all the clever tricks / ideas
