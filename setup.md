@@ -37,6 +37,18 @@ We recommend installing Python via the [Anaconda Distribution](https://www.anaco
 After the installation run `python --version` in a terminal window (in "Anaconda Prompt" if you are using Windows). If the output show "Python 3.8.x" (and "Anaconda") you are good to go.
 
 
+## Colab:
+Alternatively, some of the Jupyter notebooks in the Labs can be executed on **Google Colaboratory**. Colaboratory, or “Colab” for short, is a product from Google Research. Colab allows anybody to write and execute arbitrary python code through the browser, and is especially well suited to machine learning, data analysis and education. More technically, Colab is a hosted Jupyter notebook service that requires no setup to use, while providing free access to computing resources including GPUs. Colab is free to use, and resources are not guaranteed and not unlimited, and the usage [resource limits](https://research.google.com/colaboratory/faq.html#resource-limits) sometimes fluctuate.
+
+Colab ode is executed in a virtual machine private to your account, i.e.
+
+> you will need to [Create a Google Account](https://support.google.com/accounts/answer/27441?hl=en) if you not already have one (you don't need a Gmail account to create a Google Account as you can use your non-Gmail address).
+
+Virtual machines are deleted when idle for a while, and have a maximum lifetime enforced by the Colab service.
+
+Colab notebooks are stored in [Google Drive](https://drive.google.com/drive/my-drive), or can be loaded from [GitHub](https://github.com). Colab notebooks can be shared just as you would with Google Docs or Sheets. Simply click the Share button at the top right of any Colab notebook, or follow these Google Drive [file sharing instructions](https://support.google.com/drive/answer/2494822?co=GENIE.Platform%3DDesktop&hl=en).
+
+
 ## Atom:
 Atom is a free and open-source text and source code editor for writing and editing text files e.g. YAML configuration files, Markdown files, JSON files, HTML files and others. By its developers it is called a "hackable text editor for the 21st Century" and is a useful tool in addition to the browser-based Jupyter notebook that we will use.
 You can also **render markdown files** (e.g. local README.md files): Packages -> Markdow Preview -> Toggle Preview.<br>
@@ -68,12 +80,12 @@ conda env update
 
 ### Activate the environment:
 ```bash
-conda activate bmed360v2021
+conda activate bmed360
 ```
 
 ### Install a Jupyter kernel:
 ```bash
-python -m ipykernel install --user --name bmed360v2021 --display-name "BMED360V2021"
+python -m ipykernel install --user --name bmed360 --display-name "BMED360"
 ```
 
 ### Optionally - Jupyter Lab
@@ -94,7 +106,7 @@ The code and environment will be updated during the course. Run the following co
 * Update code: `git pull`
 * Update environment:
 ```bash
-conda activate bmed360v2021
+conda activate bmed360
 conda env update
 ```
 
