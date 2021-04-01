@@ -27,11 +27,11 @@ you can come up with (e.g. adaptive thresholding, template matching /
 a priori information, Fourier space methods, deep convolutional neural networks, …).
 Try out both 2D and 3D approaches.   [Use PYTHON, JAVA ([ImageJ](https://imagej.net/Welcome)/[Fiji](https://imagej.net/Fiji)/[MIPAV](https://mipav.cit.nih.gov) or MATLAB or …]
 
-From your  segmentation results, 
+From your segmentation results: 
 
 - Make an estimate of the number of seeds in the Kiwi.
 - If you are using probabilistic methods you might also provide a confidence interval for your estimate.
-- Try to assess the **goodness of your segmentation_ method**  by cutting out a portion of the volume (e.g. some contiguous slices) and do a manual count of the number of seeds and compare with your segmentation results (e.g. false positive detections, false negative detections).
+- Try to assess the **goodness of your segmentation method**  by cutting out a portion of the volume (e.g. some contiguous slices) and do a manual count of the number of seeds and compare with your segmentation results (e.g. false positive detections, false negative detections).
 - Now, consider the Kiwi to be the brain and the seeds to be pathological lesions, such as [MS plaques](https://www.ncbi.nlm.nih.gov/pubmed/23084503). 
 - Make an estimate of the “lesion load” i.e. the ratio: volume of lesions (seeds) / volume of whole brain (kiwi), using the voxel size information from the scan and your segmentation results.
 
@@ -44,6 +44,7 @@ Write a **short scientific report** (preferably in LaTeX / Overleaf) from your i
 - “**Experimental results**” (seed counts for given algorithmic parameter settings, processing time, etc., use Figures and Tables to describe your results) 
 - “**Discussion**” (main results, strength and weaknesses of your approach, suggestions for improvement, relevance to similar problems, and "Conclusions").
 - “**Bibliography**” (try to find some relevant literature to this image analysis task, and your algorithmic approach). 
-- The Report should be sent by e-mail at latest on the day before the 2nd period of the course.
+ 
+The Report should be sent by e-mail at latest on the day before the 2nd period of the course.
 
 
