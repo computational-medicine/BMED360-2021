@@ -5,6 +5,7 @@ __pycache__/
 
 # MacOS
 .DS_Store
+__MACOSX
 
 # Jupyter Notebook
 .ipynb_checkpoints
@@ -17,3 +18,8 @@ unsynceddata/
 
 # Nilearn download
 nilearn_cache/joblib
+
+# Lab0
+Lab0-beginners-guide/kiwi-data
+Lab0-beginners-guide/kiwi-results
+Lab0-beginners-guide/testdata
