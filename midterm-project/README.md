@@ -16,8 +16,7 @@ download the [KIWI](http://en.wikipedia.org/wiki/Kiwi_(fruit)) fruit data \([DIC
 ## [Data](https://github.com/computational-medicine/BMED360-2020/tree/master/midterm-project/data)
 
 The 3D dataset, consisting of 128 transaxial slices through the long axis of
-the kiwi, was acquired with the 7 T [Bruker Pharmascan](https://www.bruker.com/en/products-and-solutions/preclinical-imaging/mri/pharmascan-new.html) MRI scanner at the 
-[MIC](http://www.uib.no/rg/mic) / Vivarium, University of Bergen, using the 2D [RARE](http://www.mr-tip.com/serv1.php?type=seq&sub=12) pulse sequence
+the kiwi, was acquired with the 7 T [Bruker Pharmascan](https://www.bruker.com/en/products-and-solutions/preclinical-imaging/mri/pharmascan-new.html) MRI scanner at the *Molecular Imaging Center* ([MIC/Vivarium](https://wikihost.uib.no/mriwiki/index.php/Main_Page)), University of Bergen, using the 2D [RARE](http://www.mr-tip.com/serv1.php?type=seq&sub=12) pulse sequence
 (Echo Train Length = 8, TR = 18520 ms, TE = 63.9 ms, No. of Averages = 2,
 Flip Angle = 180 deg, Slice thickness = 0.5 mm, In-plane pixel resolution =
 0.234 x 0.234 mm$^2$,  Acquisition matrix = 256 x 256, Number of slices = 128).
