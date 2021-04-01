@@ -11,7 +11,7 @@
 ## [Problem formulation](https://docs.google.com/presentation/d/1B_E-Pcwfvj3hgG2o02vsxmez_Bm6x72uI5tzIu0dymU/edit?usp=sharing)
 
 From the course website [https://github\.com/computational\-medicine/BMED360\-2021](https://github.com/computational-medicine/BMED360-2021)
-download the [KIWI](http://en.wikipedia.org/wiki/Kiwi_(fruit)) fruit data ([DICOM](https://github.com/computational-medicine/BMED360-2021/tree/master/Lab0-beginners-guide/00-begin-python-programming-language.ipynb) files or the [NIFTI](https://github.com/computational-medicine/BMED360-2021/tree/master/midterm-project/data) file.
+download the [KIWI](http://en.wikipedia.org/wiki/Kiwi_(fruit)) fruit data as [DICOM](https://www.dicomstandard.org) files (mentioned in [this](https://github.com/computational-medicine/BMED360-2021/tree/master/Lab0-beginners-guide/03-begin-image_processing_basics.ipynb) Lab0 Jupyter notebook), or as a single [NIFTI](https://github.com/computational-medicine/BMED360-2021/tree/master/midterm-project/data) file.
 
 ## [Data](https://github.com/computational-medicine/BMED360-2021/tree/master/midterm-project/data)
 
