@@ -24,7 +24,7 @@ Flip Angle = 180 deg, Slice thickness = 0.5 mm, In-plane pixel resolution =
 ## Tentative methods
 [Segment](https://en.wikipedia.org/wiki/Image_segmentation) the seeds from the background using all the clever tricks / ideas
 you can come up with (e.g. adaptive thresholding, template matching /
-a priori information, Fourier space methods, …).
+a priori information, Fourier space methods, deep convolutional neural networks, …).
 Try out both 2D and 3D approaches.   [Use PYTHON, JAVA ([ImageJ](https://imagej.net/Welcome)/[Fiji](https://imagej.net/Fiji)/[MIPAV](https://mipav.cit.nih.gov) or MATLAB or …]
 
 ## Report
