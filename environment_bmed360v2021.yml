@@ -1,0 +1,46 @@
+name: bmed360v2021
+dependencies:
+- python >= 3.8.0
+- conda-forge::geoplot
+- conda-forge::jupyter_contrib_nbextensions
+- conda-forge::jupyterlab
+- conda-forge::statsmodels
+- conda-forge::biopandas
+- descartes
+- gdown
+- geopandas
+- geojson
+- git
+- imageio
+- ipykernel
+- ipython
+- ipywidgets
+- jupyter
+- matplotlib
+- numpy
+- openpyxl
+- pandas
+- plotly
+- pip
+- scikit-image
+- scikit-learn
+- scipy
+- seaborn
+- sympy
+- tensorly::tensorly
+- pip:
+  - cufflinks
+  - pip
+  - kaggle
+  - xlrd
+  - eli5
+  - pdpbox
+  - nibabel
+  - nilearn
+  - dipy
+  - pyradiomics
+  - opencv-python
+  - SimpleITK
+  - osfclient
+  - pybids
+  - nltools
