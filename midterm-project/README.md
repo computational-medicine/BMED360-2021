@@ -11,9 +11,9 @@
 ## [Problem formulation](https://docs.google.com/presentation/d/1B_E-Pcwfvj3hgG2o02vsxmez_Bm6x72uI5tzIu0dymU/edit?usp=sharing)
 
 From the course website [https://github\.com/computational\-medicine/BMED360\-2021](https://github.com/computational-medicine/BMED360-2021)
-download the [KIWI](http://en.wikipedia.org/wiki/Kiwi_(fruit)) fruit data \([DICOM](https://github.com/computational-medicine/BMED360-2021/tree/master/Lab0- beginners-guide/kiwi-data) files or the [NIFTI](https://github.com/computational-medicine/BMED360-2021/tree/master/midterm-project/data) file.
+download the [KIWI](http://en.wikipedia.org/wiki/Kiwi_(fruit)) fruit data ([DICOM](https://github.com/computational-medicine/BMED360-2021/tree/master/Lab0-beginners-guide/00-begin-python-programming-language.ipynb) files or the [NIFTI](https://github.com/computational-medicine/BMED360-2021/tree/master/midterm-project/data) file.
 
-## [Data](https://github.com/computational-medicine/BMED360-2020/tree/master/midterm-project/data)
+## [Data](https://github.com/computational-medicine/BMED360-2021/tree/master/midterm-project/data)
 
 The 3D dataset, consisting of 128 transaxial slices through the long axis of
 the kiwi, was acquired with the 7 T [Bruker Pharmascan](https://www.bruker.com/en/products-and-solutions/preclinical-imaging/mri/pharmascan-new.html) MRI scanner at the *Molecular Imaging Center* ([MIC/Vivarium](https://wikihost.uib.no/mriwiki/index.php/Main_Page)), University of Bergen, using the 2D [RARE](http://www.mr-tip.com/serv1.php?type=seq&sub=12) pulse sequence
