@@ -1,4 +1,4 @@
-Copyright (c) 2021 Computational-Medicine  (BMED360V2021)
+Copyright (c) 2021 Computational-Medicine  (BMED360-2021)
 
 # Setting up your system
 
