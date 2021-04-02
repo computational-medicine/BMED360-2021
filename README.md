@@ -2,7 +2,7 @@
 
 ## ( with [_ad hoc_](./outbreak-science/README_outbr_sci.md) curriculum* on COVID-19 and "outbreak science" )
 
-[Work in progress ver. 2021-04-01]
+[Work in progress ver. 2021-04-02]
 
 ![BMED360 image](./assets/bmed360_logo.png)
 
@@ -21,9 +21,6 @@ The goal of this course is to obtain theoretical and practical knowledge on func
 
 
 You will find more (static) information about this course at [MittUiB](https://mitt.uib.no/courses/27782)
-
-
-This repository on Google Colaboratory ([Colab](https://research.google.com/colaboratory/faq.html)): http://colab.research.google.com/github/computational-medicine/BMED360-2021. See also the individual Jupyter notebooks for execution on Colab
 
 
 
