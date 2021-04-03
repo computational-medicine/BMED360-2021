@@ -2,7 +2,7 @@
 
 ## ( with [_ad hoc_](./outbreak-science/README_outbr_sci.md) curriculum* on COVID-19 and "outbreak science" )
 
-[Work in progress ver. 2021-04-02]
+[Work in progress ver. 2021-04-03]
 
 ![BMED360 image](./assets/bmed360_logo.png)
 
@@ -43,7 +43,7 @@ Throughout the course you will work with notebooks that contain various material
 
 
 ## Get started - test your environment
-* [Python, Numpy, Pandas, Matplotlib, Nibabel, Biopython and more](./test-notebooks/0.0-test-installation.ipynb): run through this notebook (`test-notebooks/`[0.0-test-installation.ipynb](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/test-notebooks/0.0-test-installation.ipynb)) to check that your environment is OK.<br>
+* [Python, Numpy, Pandas, Matplotlib, Nibabel, Biopython and more](./Test-Notebook/0.0-test-installation.ipynb): run through this notebook (`Test-Notebook/`[0.0-test-installation.ipynb](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Test-Notebook/0.0-test-installation.ipynb)) to check that your environment is OK.<br>
 
 
 
