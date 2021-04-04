@@ -74,14 +74,15 @@ Throughout the course you will work with notebooks that contain various material
 - **Lab 1**: **Data analysis, image processing, and modelling in Python**
   - [[Lab1-00-get-mri-imc-data](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab1-MRI/00-get-mri-imc-data.ipynb)] (download MRI and IMC ([_Imaging Mass Cytometry_](https://www.fluidigm.com/applications/imaging-mass-cytometry)) data used in this Lab)
   - [[Lab1-01-mri-intro](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab1-MRI/01-mri-intro.ipynb)]
-  - [[Lab1-02-mri](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab1-MRI/02-mri-multispectral.ipynb)] 
-  - [[Lab1-03-mri](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab1-MRI/03-mri-snr-cnr.ipynb)]
+  - [[Lab1-02-mri-multispectral](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab1-MRI/02-mri-multispectral.ipynb)] 
+  - [[Lab1-03-mri-snr-cnr](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab1-MRI/03-mri-snr-cnr.ipynb)]
 - **Lab 2**: **Machine learning, multispectral imaging and tissue classification**
-  - [[Lab2-00-recap](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab2-ML-tissue-classification/00-recap-python.ipynb)]
-  - [[Lab2-01-intro](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab2-ML-tissue-classification/01-intro-example.ipynb)]
-  - [[Lab2-02-extensive](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab2-ML-tissue-classification/02-extensive-example.ipynb)] 
-  - [[Lab2-03-advanced-DL](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab2-ML-tissue-classification/03-advanced-dl-example.ipynb)] 
-  - [[Lab2-04-mri-knn](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab2-ML-tissue-classification/04-mri-knn-tissue-classification.ipynb)] [[Lab2-05-mri-kmeans](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab2-ML-tissue-classification/05-mri-kmeans-tissue-classification.ipynb)]
+  - [[Lab2-00-recap-python](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab2-ML-tissue-classification/00-recap-python.ipynb)]
+  - [[Lab2-01-intro-example](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab2-ML-tissue-classification/01-intro-example.ipynb)]
+  - [[Lab2-02-extensive-example](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab2-ML-tissue-classification/02-extensive-example.ipynb)] 
+  - [[Lab2-03-advanced-dl-example](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab2-ML-tissue-classification/03-advanced-dl-example.ipynb)] 
+  - [[Lab2-04-mri-knn-tissue-classification](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab2-ML-tissue-classification/04-mri-knn-tissue-classification.ipynb)] 
+  - [[Lab2-05-mri-kmeans-tissue-classification](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab2-ML-tissue-classification/05-mri-kmeans-tissue-classification.ipynb)]
 - **Lab 3**: **Processing of diffusion MRI (dMRI / DTI)**  [[DIPY](https://dipy.org)]  
   - [[README](./diffusion/README_diff.md)] 
   - [[01-diff](./diffusion/01-diff-random-walks.ipynb)] 
