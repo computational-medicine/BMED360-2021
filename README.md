@@ -66,9 +66,9 @@ Throughout the course you will work with notebooks that contain various material
 **LABS**:
 
 - **Lab 0** (before the course): [SW installation](setup.md) and beginner's guides: 
-   - [[Lab0-00-begin-python-programming-language](https://github.com/computational-medicine/BMED360-2021/blob/main/Lab0-beginners-guide/00-begin-python-programming-language.ipynb)]
-   - [[Lab0-01-jupyter-notebook-markdown-basics](https://github.com/computational-medicine/BMED360-2021/blob/main/Lab0-beginners-guide/01-jupyter-notebook-markdown-basics.ipynb)]
-   - [[Lab0-02-begin-pandas-basics](https://github.com/computational-medicine/BMED360-2021/blob/main/Lab0-beginners-guide/02-begin-pandas-basics.ipynb)] 
+   - [[Lab0-00-begin-python-programming-language](https://github.com/computational-medicine/BMED360-2021/blob/main/Lab0-beginners-guide/00-begin-python-programming-language.ipynb)] (operators, control structures, lists, dictionaries, and more ...)
+   - [[Lab0-01-jupyter-notebook-markdown-basics](https://github.com/computational-medicine/BMED360-2021/blob/main/Lab0-beginners-guide/01-jupyter-notebook-markdown-basics.ipynb)] (how to use the rich functionality of [_Markdown Cells_](https://jupyter-notebook.readthedocs.io/en/latest/examples/Notebook/Working%20With%20Markdown%20Cells.html) in Jupyter notebooks)
+   - [[Lab0-02-begin-pandas-basics](https://github.com/computational-medicine/BMED360-2021/blob/main/Lab0-beginners-guide/02-begin-pandas-basics.ipynb)] (likely the most important data analysis and manipulation tool for Python)
    - [[Lab0-03-begin-image-processing-basics](https://github.com/computational-medicine/BMED360-2021/blob/main/Lab0-beginners-guide/03-begin-image-processing-basics.ipynb)] (relevant for the [Midterm-Kiwi-Project](./Midterm-Kiwi-Project#readme))
    -  (and optionally, [Prog4comp-SL-HPL-Extra](./Prog4comp-SL-HPL-Extra) for those who want to go deeper into numerical computing and simulations)
 - **Lab 1**: Data analysis, image processing, and modelling in PYTHON [[Lab1-01-mri](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab1-MRI/01-mri-intro.ipynb)] [[Lab1-02-mri](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab1-MRI/02-mri-multispectral.ipynb)] [[Lab1-03-mri](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab1-MRI/03-mri-snr-cnr.ipynb)]
