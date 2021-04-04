@@ -105,9 +105,9 @@ Throughout the course you will work with notebooks that contain various material
 
 **ASSESSMENT / EXAM**:
 
-- **Midterm assignment**: [[The KIWIfruit segmentation challenge](./Midterm-Kiwi-Project)]
-- **MCQ / Quiz**: [[README](./exam/README.md)]
-- **Oral presentation of PROJECT**: [[README](./exam/README.md)]
+- **Midterm assignment**: [[The KIWIfruit segmentation challenge](./Midterm-Kiwi-Project/README.md)]
+- **MCQ / Quiz**: [[README](./Assessment-BMED360/README.md)]
+- **Oral presentation of PROJECT**: [[README](./Assessment-BMED360/README.md)]
 
 
 **Previous course material**
@@ -116,7 +116,7 @@ Throughout the course you will work with notebooks that contain various material
 - [Previous (2020) GitHub repository](https://github.com/computational-medicine/BMED360-2020)
 
 
-**Q&A topics** (from 2019) [[gslides](https://docs.google.com/presentation/d/1-9HeVb1ewBLVVxcrh2-JRnepcPxPisZW_tgSfYVYp54/edit?usp=sharing)]
+**Q&A topics** (from 2019 - still relevant) [[gslides](https://docs.google.com/presentation/d/1-9HeVb1ewBLVVxcrh2-JRnepcPxPisZW_tgSfYVYp54/edit?usp=sharing)]
 
 
 ## Tentative schedule (fully digital, lectures on Zoom) Spring 2021
