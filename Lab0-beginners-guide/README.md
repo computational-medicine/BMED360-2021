@@ -52,7 +52,7 @@ To further practice your skills in Python check and register for https://practic
 
 -------------------
 
-- [03-begin-image_processing_basics.ipynb](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab0-beginners-guide/03-begin-image_processing_basics.ipynb)<a href="https://colab.research.google.com/github/computational-medicine/BMED360-2021/blob/main/Lab0-beginners-guide/03-begin-image_processing_basics.ipynb">
+- [03-begin-image-processing-basics.ipynb](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab0-beginners-guide/03-begin-image-processing-basics.ipynb)<a href="https://colab.research.google.com/github/computational-medicine/BMED360-2021/blob/main/Lab0-beginners-guide/03-begin-image-processing-basics.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
