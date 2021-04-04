@@ -65,31 +65,55 @@ Throughout the course you will work with notebooks that contain various material
 
 **LABS**:
 
-- **Lab 0** (before the course): [SW installation](setup.md) and beginner's guides: 
+- **Lab 0** (before the course): [**SW installation**](setup.md) and **Beginner's guides** 
    - [[Lab0-00-begin-python-programming-language](https://github.com/computational-medicine/BMED360-2021/blob/main/Lab0-beginners-guide/00-begin-python-programming-language.ipynb)] (operators, control structures, lists, dictionaries, and more ...)
    - [[Lab0-01-jupyter-notebook-markdown-basics](https://github.com/computational-medicine/BMED360-2021/blob/main/Lab0-beginners-guide/01-jupyter-notebook-markdown-basics.ipynb)] (how to use the rich functionality of [_Markdown Cells_](https://jupyter-notebook.readthedocs.io/en/latest/examples/Notebook/Working%20With%20Markdown%20Cells.html) in Jupyter notebooks)
    - [[Lab0-02-begin-pandas-basics](https://github.com/computational-medicine/BMED360-2021/blob/main/Lab0-beginners-guide/02-begin-pandas-basics.ipynb)] (likely the most important data analysis and manipulation tool for Python)
    - [[Lab0-03-begin-image-processing-basics](https://github.com/computational-medicine/BMED360-2021/blob/main/Lab0-beginners-guide/03-begin-image-processing-basics.ipynb)] (relevant for the [Midterm-Kiwi-Project](./Midterm-Kiwi-Project#readme))
    -  (and optionally, [Prog4comp-SL-HPL-Extra](./Prog4comp-SL-HPL-Extra) for those who want to go deeper into numerical computing and simulations)
-- **Lab 1**: Data analysis, image processing, and modelling in PYTHON [[Lab1-01-mri](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab1-MRI/01-mri-intro.ipynb)] [[Lab1-02-mri](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab1-MRI/02-mri-multispectral.ipynb)] [[Lab1-03-mri](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab1-MRI/03-mri-snr-cnr.ipynb)]
-- **Lab 2**: Machine learning, multispectral imaging and tissue classification [[Lab2-00-recap](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab2-ML-tissue-classification/00-recap-python.ipynb)] [[Lab2-01-intro](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab2-ML-tissue-classification/01-intro-example.ipynb)] [[Lab2-02-extensive](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab2-ML-tissue-classification/02-extensive-example.ipynb)] [[Lab2-03-advanced-DL](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab2-ML-tissue-classification/03-advanced-dl-example.ipynb)] [[Lab2-04-mri-knn](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab2-ML-tissue-classification/04-mri-knn-tissue-classification.ipynb)] [[Lab2-05-mri-kmeans](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab2-ML-tissue-classification/05-mri-kmeans-tissue-classification.ipynb)]
-- **Lab 3**: Processing of diffusion MRI (dMRI / DTI)  [[DIPY](https://dipy.org)]  [[README](./diffusion/README_diff.md)] [[01-diff](./diffusion/01-diff-random-walks.ipynb)] [[02-diff](./diffusion/02-diff-dipy-S0s.ipynb)] [[03-diff](./diffusion/03-diff-dipy-find-affine-brainmask2dwi.ipynb)] [[04-diff](./diffusion/04-diff-dipy-reconstruction-dti.ipynb)] [[05-diff](./diffusion/05-diff-dipy-do-affine-reg-anat2dwi.ipynb)] [[06-diff](./diffusion/06-diff-dipy-dti-feature-extraction-roi-wise.ipynb)]
-- **Lab 4**: Processing of perfusion MRI (pMRI / DSC-MRI)  [[README](./perfusion/README_perf.md)] [[01-perf](./perfusion/01-perf-explore.ipynb)]
-- **Lab 5**: Vascular permeability mapping (DCE-MRI) [[README](./permeability/README_perm.md)]
-- **Lab 6**: Network science and Graphs [[Lab6-01-Concepts-in-network-theory](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab6-Networks-Graphs/01-Concepts-in-network-theory.ipynb)]  [[Lab6-02-Network-based-statistics](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab6-Networks-Graphs/02-Network-based-statistics.ipynb)]
+- **Lab 1**: **Data analysis, image processing, and modelling in Python**
+  - [[Lab1-00-get-mri-imc-data](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab1-MRI/00-get-mri-imc-data.ipynb)] (download MRI and IMC ([_Imaging Mass Cytometry_](https://www.fluidigm.com/applications/imaging-mass-cytometry)) data used in this Lab)
+  - [[Lab1-01-mri-intro](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab1-MRI/01-mri-intro.ipynb)]
+  - [[Lab1-02-mri](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab1-MRI/02-mri-multispectral.ipynb)] 
+  - [[Lab1-03-mri](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab1-MRI/03-mri-snr-cnr.ipynb)]
+- **Lab 2**: **Machine learning, multispectral imaging and tissue classification**
+  - [[Lab2-00-recap](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab2-ML-tissue-classification/00-recap-python.ipynb)]
+  - [[Lab2-01-intro](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab2-ML-tissue-classification/01-intro-example.ipynb)]
+  - [[Lab2-02-extensive](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab2-ML-tissue-classification/02-extensive-example.ipynb)] 
+  - [[Lab2-03-advanced-DL](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab2-ML-tissue-classification/03-advanced-dl-example.ipynb)] 
+  - [[Lab2-04-mri-knn](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab2-ML-tissue-classification/04-mri-knn-tissue-classification.ipynb)] [[Lab2-05-mri-kmeans](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab2-ML-tissue-classification/05-mri-kmeans-tissue-classification.ipynb)]
+- **Lab 3**: **Processing of diffusion MRI (dMRI / DTI)**  [[DIPY](https://dipy.org)]  
+  - [[README](./diffusion/README_diff.md)] 
+  - [[01-diff](./diffusion/01-diff-random-walks.ipynb)] 
+  - [[02-diff](./diffusion/02-diff-dipy-S0s.ipynb)] 
+  - [[03-diff](./diffusion/03-diff-dipy-find-affine-brainmask2dwi.ipynb)] 
+  - [[04-diff](./diffusion/04-diff-dipy-reconstruction-dti.ipynb)] 
+  - [[05-diff](./diffusion/05-diff-dipy-do-affine-reg-anat2dwi.ipynb)] 
+  - [[06-diff](./diffusion/06-diff-dipy-dti-feature-extraction-roi-wise.ipynb)]
+- **Lab 4**: **Processing of perfusion MRI (pMRI / DSC-MRI)**  
+  - [[README](./perfusion/README_perf.md)] 
+  - [[01-perf](./perfusion/01-perf-explore.ipynb)]
+- **Lab 5**: **Vascular permeability mapping (DCE-MRI)** 
+  - [[README](./permeability/README_perm.md)]
+- **Lab 6**: **Network science and Graphs**
+  - [[Lab6-01-Concepts-in-network-theory](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab6-Networks-Graphs/01-Concepts-in-network-theory.ipynb)]  
+  - [[Lab6-02-Network-based-statistics](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab6-Networks-Graphs/02-Network-based-statistics.ipynb)]
+  - [[Connectivity-fMRI](./Lab6-Networks-Graphs/Connectivity-fMRI.md)]
 
 
 
 **ASSESSMENT / EXAM**:
 
-- **Midterm assignment**: [[The KIWIfruit segmentation challenge](./midterm-project)]
+- **Midterm assignment**: [[The KIWIfruit segmentation challenge](./Midterm-Kiwi-Project)]
 - **MCQ / Quiz**: [[README](./exam/README.md)]
 - **Oral presentation of PROJECT**: [[README](./exam/README.md)]
 
 
+**Previous course material**
+- [Previous (2019) LECTURES](https://sites.google.com/site/bmed360/courses) and
+- [Previous (2019) LABS](https://sites.google.com/site/bmed360/labs)
+- [Previous (2020) GitHub repository](https://github.com/computational-medicine/BMED360-2020)
 
-[Previous (2019) LECTURES](https://sites.google.com/site/bmed360/courses) and
-[Previous (2019) LABS](https://sites.google.com/site/bmed360/labs)
 
 **Q&A topics** (from 2019) [[gslides](https://docs.google.com/presentation/d/1-9HeVb1ewBLVVxcrh2-JRnepcPxPisZW_tgSfYVYp54/edit?usp=sharing)]
 
