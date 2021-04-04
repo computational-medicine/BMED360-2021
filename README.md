@@ -80,7 +80,7 @@ Throughout the course you will work with notebooks that contain various material
   - [[Lab2-00-recap-python](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab2-ML-tissue-classification/00-recap-python.ipynb)]
   - [[Lab2-01-intro-example](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab2-ML-tissue-classification/01-intro-example.ipynb)]
   - [[Lab2-02-extensive-example](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab2-ML-tissue-classification/02-extensive-example.ipynb)] 
-  - [[Lab2-03-advanced-dl-example](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab2-ML-tissue-classification/03-advanced-dl-example.ipynb)] 
+  - [[Lab2-03-advanced-dl-example](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab2-ML-tissue-classification/03-advanced-dl-example.ipynb)] (requires the [`fastai`](https://docs.fast.ai) kernel)
   - [[Lab2-04-mri-knn-tissue-classification](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab2-ML-tissue-classification/04-mri-knn-tissue-classification.ipynb)] 
   - [[Lab2-05-mri-kmeans-tissue-classification](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab2-ML-tissue-classification/05-mri-kmeans-tissue-classification.ipynb)]
 - **Lab 3**: **Processing of diffusion MRI (dMRI / DTI)**  [[DIPY](https://dipy.org)]  
