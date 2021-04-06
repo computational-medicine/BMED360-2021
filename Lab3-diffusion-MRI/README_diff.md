@@ -2,6 +2,8 @@
 
 ### _diffusion_
 
+[`00-get-smri-and-dmri-data.ipynb`](https://github.com/computational-medicine/BMED360-2021/blob/main/Lab3-diffusion-MRI/00-get-smri-and-dmri-data.ipynb)
+
 Check the notebooks from https://github.com/arvidl/viola-ibs-imaging e.g.
 
 - https://github.com/arvidl/viola-ibs-imaging/blob/master/notebooks/06-dipy-S0s.ipynb
