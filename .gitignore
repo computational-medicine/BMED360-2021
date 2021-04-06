@@ -25,3 +25,7 @@ Lab0-beginners-guide/kiwi-results
 Lab0-beginners-guide/testdata
 Lab0-beginners-guide/._assets
 Lab0-beginners-guide/._kiwi-data
+
+# Lab3
+Lab3-diffusion-MRI/data/Lab3_LG_Prisma_20160218_DICOM
+Lab3-diffusion-MRI/data/Lab3_LG_Prisma_20160218_NIFTI

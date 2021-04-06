@@ -1,6 +1,6 @@
 # In Vivo Imaging and Physiological Modelling - BMED 360 Spring 2021
 
-### _diffusion_
+### Diffusion MRI
 
 [`00-get-smri-and-dmri-data.ipynb`](https://github.com/computational-medicine/BMED360-2021/blob/main/Lab3-diffusion-MRI/00-get-smri-and-dmri-data.ipynb)
 
