@@ -2,9 +2,15 @@
 
 ### Diffusion MRI
 
-[`00-get-smri-and-dmri-data.ipynb`](https://github.com/computational-medicine/BMED360-2021/blob/main/Lab3-diffusion-MRI/00-get-smri-and-dmri-data.ipynb)
+- [00-get-smri-and-dmri-data.ipynb](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab3-diffusion-MRI/00-get-smri-and-dmri-data.ipynb) <a href="https://colab.research.google.com/github/computational-medicine/BMED360-2021/blob/main/Lab3-diffusion-mri/00-get-smri-and-dmri-data.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
-Check the notebooks from https://github.com/arvidl/viola-ibs-imaging e.g.
+
+
+
+
+TODO: Check the notebooks from https://github.com/arvidl/viola-ibs-imaging e.g.
 
 - https://github.com/arvidl/viola-ibs-imaging/blob/master/notebooks/06-dipy-S0s.ipynb
 - https://github.com/arvidl/viola-ibs-imaging/blob/master/notebooks/07-dipy-find-affine-brainmask2dwi.ipynb
