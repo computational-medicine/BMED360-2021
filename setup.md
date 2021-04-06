@@ -48,7 +48,7 @@ Virtual machines are deleted when idle for a while, and have a maximum lifetime 
 
 Colab notebooks are stored in [Google Drive](https://drive.google.com/drive/my-drive), or can be loaded from [GitHub](https://github.com). Colab notebooks can be shared just as you would with Google Docs or Sheets. Simply click the Share button at the top right of any Colab notebook, or follow these Google Drive [file sharing instructions](https://support.google.com/drive/answer/2494822?co=GENIE.Platform%3DDesktop&hl=en).
 
-For `nipype` on Colab, see also: https://colab.research.google.com/github/nmningmei/preprocessing_pipelines/blob/master/FSL_vs_nipype_fsl_preprocessing.ipynb
+**For [`nipype`](https://nipype.readthedocs.io/en/latest) on Colab**, see also: https://colab.research.google.com/github/nmningmei/preprocessing_pipelines/blob/master/FSL_vs_nipype_fsl_preprocessing.ipynb
 ```python
 from IPython.display import Image
 
