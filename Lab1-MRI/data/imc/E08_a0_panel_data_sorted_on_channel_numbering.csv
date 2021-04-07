@@ -1,0 +1,38 @@
+Short Name,Antigen,Main Target Cells,Metal Tag,Chn
+H3,Histone H3,Nuclei,113In,1
+SMA,Smooth muscle actin,Stromal,115In,2
+INS,Insulin,β,141Pr,3
+CD38,CD38,Immune,142Nd,4
+CD44,CD44,Exocrine,143Nd,5
+PCSK2,Proprotein convertase 2,α,144Nd,6
+CD99,CD99,Endocrine,145Nd,7
+CD68,CD68,Monocytes macrophages,146Nd,8
+MPO,Myeloperoxidase,Neutrophils,147Sm,9
+SLC2A1,Glucose transporter 1,Endocrine,148Nd,10
+CD20,CD20,B,149Sm,11
+AMY2A,Pancreatic amylase,Acinar,150Nd,12
+CD3e,CD3ɛ,T,152Sm,13
+PPY,Pancreatic polypeptide,γ,153Eu,14
+PIN,Proinsulin,β,154Sm,15
+GCG,Glucagon,α,156Gd,16
+PDX1,Pancreatic and duodenal homeobox 1,β δ ductal,158Gd,17
+SST,Somatostatin,δ,159Tb,18
+SYP,Synaptophysin,Endocrine,160Gd,19
+KRT19,Cytokeratin 19,Ductal,161Dy,20
+CD45,CD45,Immune,162Dy,21
+FOXP3,Forkhead box P3,Regulatory T,163Dy,22
+CD45RA,CD45RA,Immune,164Dy,23
+CD8a,CD8a,Cytotoxic T,165Ho,24
+CA9,Carbonic anhydrase IX,Hypoxic,166Er,25
+IAPP,Amylin,β,167Er,26
+KI-67,Ki-67,Proliferating,168Er,27
+NKX6-1,Homeobox protein Nkx-6.1,β,169Tm,28
+pH3,Phospho-histone H3,Proliferating,170Er,29
+CD4,CD4,Helper T,171Yb,30
+CD31,CD31,Endothelial,172Yb,31
+CDH,E-/P-cadherin,Epithelial,173Yb,32
+PTPRN,Receptor-type tyrosine-protein phosphatase-like N,Endocrine,174Yb,33
+pRB1,Phospho-retinoblastoma,Cycling,175Yb,34
+cPARP1,Cleaved caspase 3 + cleaved poly (ADP-ribose) polymerase,Apoptotic,176Yb,35
+Ir191,(DNA intercalators),DNA,191Ir,36
+Ir193,(DNA intercalators),DNA,193Ir,37

@@ -1,13 +1,13 @@
-# In Vivo Imaging and Physiological Modelling - BMED 360 
+# In Vivo Imaging and Physiological Modelling - BMED 360
 
-## Lab1-MRI
+## Lab1-MRI (also introducing IMC)
 
 
 
 - [**00-get-mri-imc-data.ipynb**](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab1-MRI/00-get-mri-imc-data.ipynb) <a href="https://colab.research.google.com/github/computational-medicine/BMED360-2021/blob/main/Lab1-MRI/00-get-mri-imc-data.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-Download the IMC and MRI data from Goggle Drive cloud: 
+Download the IMC and MRI data from Goggle Drive cloud:
 
 ```
 % tree data
@@ -48,6 +48,8 @@ data
 - [**03-mri-snr-cnr.ipynb**](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab1-MRI/03-mri-snr-cnr.ipynb) <a href="https://colab.research.google.com/github/computational-medicine/BMED360-2021/blob/main/Lab1-MRI/03-mri-snr-cnr.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
+  - [**04-imc-Introductory.ipynb**](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab1-MRI/04-imc-intro.ipynb) <a href="https://colab.research.google.com/github/computational-medicine/BMED360-2021/blob/main/Lab1-MRI/04-imc-intro.ipynb">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ----------------
 
@@ -63,7 +65,7 @@ data
 ### Awesome Magnetic Resonance Imaging (MRI)
  - **A curated list of delightful Magnetic Resonance courses, books, lectures, papers, blogs and free resources** by Daniel Gomez, Donders Institute for Brain, Cognition and Behaviour (https://github.com/dangom/awesome-mri)
  - **MRIMASTER.COM** (https://mrimaster.com)
- 
+
 ### Simulators and more
 
 - **The (web) compass simulator** from the Danish Research Centre for Magnetic Resonance and TDU  (http://www.drcmr.dk/CompassMR)
