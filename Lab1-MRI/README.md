@@ -43,6 +43,10 @@ data
 ## [03-mri-snr-cnr.ipynb](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab1-MRI/03-mri-snr-cnr.ipynb)
 
 
+----------------
+
+## Other sources related MRI principles and applications
+
 ### Introductory videos
 - **How Does an MRI Scan Work?** 1:20 (https://youtu.be/1CGzk-nV06g)
 - **MRI vs. CT** 2:31 (https://youtu.be/aQZ8tTZnQ8A)
@@ -65,6 +69,8 @@ data
 
 - **Pulse sequence graphics** by Daniel Gomez (https://github.com/dangom/mr-sequence-diagrams/blob/master/README.org)
 
+
+----------------------
 
 #### To relax and enjoy biological vision (in spare time) - see
 [this webpage](https://michaelbach.de/ot) containing demos of many beautiful and fascinating optical illusions and visual phenomena. Professor Michael Bach gives detailed descriptions of these phenomena also from a theoretical perspective.
