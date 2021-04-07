@@ -1,6 +1,6 @@
 # In Vivo Imaging and Physiological Modelling - BMED 360
 
-## Brain connectivity and _MRI
+## Brain connectivity and fMRI
 
 ---------------------
 ## Videos
