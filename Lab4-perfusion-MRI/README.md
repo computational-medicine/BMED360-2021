@@ -1,7 +1,7 @@
-# In Vivo Imaging and Physiological Modelling - BMED 360 Spring 2020
+# In Vivo Imaging and Physiological Modelling - BMED 360 
 
+##  Lab4-perfusion-MRI
 
-### _perfusion_
 
 
 ## Software
