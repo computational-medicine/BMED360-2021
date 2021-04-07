@@ -5,7 +5,7 @@
 
 ### Download the IMC and MRI data from Goggle Drive cloud: 
 
-## [00-get-mri-imc-data.ipynb](./00-get-mri-imc-data.ipynb)
+## [00-get-mri-imc-data.ipynb](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab1-MRI/00-get-mri-imc-data.ipynb)
 Colab: https://colab.research.google.com/github/computational-medicine/BMED360-2021/blob/main/Lab1-MRI/00-get-mri-imc-data.ipynb
 
 
@@ -36,6 +36,14 @@ data
     ├── psif_060.nii.gz
     └── training_mask_1_6.nii.gz
 ```
+
+## [01-mri-intro.ipynb](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab1-MRI/01-mri-intro.ipynb)
+
+
+## [02-mri-multispectral.ipynb](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab1-MRI/02-mri-multispectral.ipynb)
+
+
+## [03-mri-snr-cnr.ipynb](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab1-MRI/03-mri-snr-cnr.ipynb)
 
 
 ### Introductory videos
