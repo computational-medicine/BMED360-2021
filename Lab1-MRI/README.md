@@ -1,13 +1,10 @@
 # In Vivo Imaging and Physiological Modelling - BMED 360 
 
 
-## _MRI_
-
-### Download the IMC and MRI data from Goggle Drive cloud: 
-
 ## [00-get-mri-imc-data.ipynb](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab1-MRI/00-get-mri-imc-data.ipynb)
 Colab: https://colab.research.google.com/github/computational-medicine/BMED360-2021/blob/main/Lab1-MRI/00-get-mri-imc-data.ipynb
 
+Download the IMC and MRI data from Goggle Drive cloud: 
 
 ```
 % tree data
