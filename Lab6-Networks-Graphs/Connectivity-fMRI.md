@@ -1,6 +1,6 @@
-# In Vivo Imaging and Physiological Modelling - BMED 360 Spring 2021
+# In Vivo Imaging and Physiological Modelling - BMED 360
 
-### _connectivity_ and _fMRI_
+## Brain connectivity and _MRI
 
 ---------------------
 ## Videos
