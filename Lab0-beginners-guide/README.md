@@ -1,4 +1,4 @@
-# In Vivo Imaging and Physiological Modelling - BMED 360 Spring 2021
+# In Vivo Imaging and Physiological Modelling - BMED 360
 
 
 ## Beginners guide to Python and friends
@@ -36,6 +36,10 @@ Excerpts from Tim J. Stevens: _The Python Programming Language_ in : A. Hofmann 
 
 To further practice your skills in Python check and register for https://practice.datacamp.com/p <br>(https://www.datacamp.com/onboarding/learn?technology=python)
 
+See also:
+- NumPy: the absolute basics for beginners - https://numpy.org/doc/stable/user/absolute_beginners.html
+- 15 Surprisingly Useful Python Base Modules (use the standard library!) - https://towardsdatascience.com/15-more-surprisingly-useful-python-base-modules-6ff1ee89b018
+
 ------------------
 
 
@@ -56,59 +60,4 @@ To further practice your skills in Python check and register for https://practic
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-
-On Colab:
-
-```python
-!curl -fLO https://github.com/rordenlab/dcm2niix/releases/latest/download/dcm2niix_lnx.zip
-shutil.unpack_archive('dcm2niix_lnx.zip', '.')
-```
-```python
-%%bash
-chmod +x ./dcm2niix
-./dcm2niix -h
-```
-```python
-# DCMCONVERT = !which dcm2niix
-DCMCONVERT = ['./dcm2niix']
-```
-```python
-def kiwi_dcm2niix(dcm_dir, nii_dir):
-
-    pathlib.Path(nii_dir).mkdir(parents=True, exist_ok=True)
-    cmd = [
-        DCMCONVERT[0],
-        '-d', '9',
-        '-b', 'y',
-        '-m', 'n',
-        '-s', 'n',
-        '-t', 'n',
-        '-x', 'n',
-        '-w', '1',
-        '-z', 'y',
-        '-i', 'y',
-        '-f', 'kiwi_%t_%s_%p', 
-        '-o', nii_dir,
-        dcm_dir]
-
-    cmd_str = " ".join(cmd)
-    output = subp.check_output(cmd)  # import subprocess as subp
-    print(f'output: {output} \n')
-    #print('cmd_str = \n%s\n' % cmd_str)
-    #os.system(cmd_str)
-```
-or
-```bash
-!pip install nipype
-
-from nipype.interfaces.dcm2nii import Dcm2niix
- 
-converter = Dcm2niix()
-converter.inputs.source_dir = os.path.abspath(where_the_data_locate)
-converter.inputs.output_dir = os.path.abspath(where_you_want_put_the_data_into)
-converter.inputs.single_file = True
-converter.cmdline
-temp = converter.run()
-``` 
-------
 
