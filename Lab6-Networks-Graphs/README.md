@@ -1,3 +1,18 @@
+# In Vivo Imaging and Physiological Modelling - BMED 360 
+
+## Lab6-Networks-Graphs
+
+
+- [**01-Concepts-in-network-theory.ipynb**](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab6-Networks-Graphs/01-Concepts-in-network-theory.ipynb) <a href="https://colab.research.google.com/github/computational-medicine/BMED360-2021/blob/main/Lab6-Networks-Graphs/01-Concepts-in-network-theory.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+
+- [**02-Network-based-statistics.ipynb**](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab6-Networks-Graphs/02-Network-based-statistics.ipynb) <a href="https://colab.research.google.com/github/computational-medicine/BMED360-2021/blob/main/Lab6-Networks-Graphs/02-Network-based-statistics.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+
+- [**Brain connectivity and fMRI**](Connectivity-fMRI.md)
+
+---------------------
+
 ### Descriptive vs predictive biological sciences, systems-level analysis and predictive quantitative modeling of biological systems
 
 As a fundamental science, the purpose of biology is to describe nature and to understand how natural things work together. The purpose of biomedicine is to prevent and/or cure diseases caused by failures in the natural biological order. Hence, a biomedical expert has a completely different task: to predict how the biological system will respond to a (pharmacological) perturbation. This is analogous to the fundamental difference between a physicist, whose role is to understand and describe the physical laws underlying the natural order, and an engineer whose role is to use these laws to build an airplane that do actually fly. Hence, the engineer has to be able to quantitatively predict how the lift force that keeps the plane from falling down will respond to pressure, temperature or air fluxes changes during the flight, and to make sure that how the wings are designed optimizes this lift force. The problem faced in biomedicine is similar, yet the underlying laws that govern cell biology are poorly documented. 
