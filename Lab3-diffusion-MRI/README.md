@@ -20,3 +20,9 @@ TODO: Check the notebooks from https://github.com/arvidl/viola-ibs-imaging e.g.
 - https://github.com/arvidl/viola-ibs-imaging/blob/master/notebooks/12-dti-fa-feature-extraction-and-classification.ipynb
 - https://github.com/arvidl/viola-ibs-imaging/blob/master/notebooks/utils.py
 - https://github.com/arvidl/viola-ibs-imaging/tree/master/notebooks/assets
+
+
+
+### Simulators
+
+Fick et al. The Dmipy Toolbox: Diffusion MRI Multi-Compartment Modeling and Microstructure Recovery Made Easy. Front Neuroinform. 2019; 13: 64. [[link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6803556)] Github: https://github.com/AthenaEPI/dmipy
