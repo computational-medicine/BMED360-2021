@@ -3,7 +3,7 @@
 ## Lab5-DCE-MRI
 
 
-### Software
+## Software
 
 - Python module for processing dynamic contrast enhanced magnetic resonance imaging (DCE-MRI) data (https://github.com/aydindemircioglu/pydcemri)
 
