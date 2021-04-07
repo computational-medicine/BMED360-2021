@@ -24,6 +24,8 @@ TODO: Check the notebooks from https://github.com/arvidl/viola-ibs-imaging e.g.
 
 ### DiPy tutorials
 
+DIPY is the paragon 3D/4D+ imaging library in Python. Contains generic methods for spatial normalization, signal processing, machine learning, statistical analysis and visualization of medical images. Additionally, it contains specialized methods for computational anatomy including diffusion, perfusion and structural imaging.
+
 https://dipy.org/tutorials
 
 ### Simulators
