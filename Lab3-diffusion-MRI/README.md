@@ -22,6 +22,9 @@ TODO: Check the notebooks from https://github.com/arvidl/viola-ibs-imaging e.g.
 - https://github.com/arvidl/viola-ibs-imaging/tree/master/notebooks/assets
 
 
+### DiPy tutorials
+
+https://dipy.org/tutorials
 
 ### Simulators
 
