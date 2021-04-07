@@ -10,7 +10,7 @@ Colab: https://colab.research.google.com/github/computational-medicine/BMED360-2
 
 
 ```
-2-biomedical_imaging % tree data
+% tree data
 data
 ├── imc
 │   ├── E08_a0_full.csv
