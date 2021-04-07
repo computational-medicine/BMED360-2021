@@ -1,8 +1,8 @@
-# In Vivo Imaging and Physiological Modelling - BMED 360 Spring 2021
+# In Vivo Imaging and Physiological Modelling - BMED 360
 
 ### Diffusion MRI
 
-## [00-get-smri-and-dmri-data.ipynb](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab3-diffusion-MRI/00-get-smri-and-dmri-data.ipynb)<a href="https://colab.research.google.com/github/computational-medicine/BMED360-2021/blob/main/Lab3-diffusion-MRI/00-get-smri-and-dmri-data.ipynb">
+- [**00-get-smri-and-dmri-data.ipynb**](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab3-diffusion-MRI/00-get-smri-and-dmri-data.ipynb)<a href="https://colab.research.google.com/github/computational-medicine/BMED360-2021/blob/main/Lab3-diffusion-MRI/00-get-smri-and-dmri-data.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
