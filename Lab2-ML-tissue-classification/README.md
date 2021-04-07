@@ -1,5 +1,6 @@
 # In Vivo Imaging and Physiological Modelling - BMED 360 
 
+## Lab2-ML-tissue-classification
 
 - [**00-recap-python.ipynb**](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab1-MRI/00-recap-python.ipynb) <a href="https://colab.research.google.com/github/computational-medicine/BMED360-2021/blob/main/Lab1-MRI/00-recap-python.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
