@@ -1,3 +1,6 @@
+# Deep learning - extracurricular activity 
+
+ _Educational activities not falling within the scope of the regular BMED360 curriculum_
 
 ### DAT255-1 21V Practical deep learning (10 ECTS @HVL)
 - Course description - https://www.hvl.no/en/studies-at-hvl/study-programmes/courses/34/dat255
