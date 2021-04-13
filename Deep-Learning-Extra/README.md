@@ -6,7 +6,7 @@
 - Course description - https://www.hvl.no/en/studies-at-hvl/study-programmes/courses/34/dat255
 - Canvas (hvl.instructure.com) at HVL - https://hvl.instructure.com/courses/14041
 - [About the course](https://hvl.instructure.com/courses/14041/modules#module_51744)
-- Textbook J. Howard and S. Gugger, [_Deep Learning for Coders with fastai and PyTorch_](https://www.oreilly.com/library/view/deep-learning-for/9781492045519). O'Reilly 2020.
+- Textbook: J. Howard and S. Gugger, [_Deep Learning for Coders with fastai and PyTorch_](https://www.oreilly.com/library/view/deep-learning-for/9781492045519). O'Reilly 2020.
    - The complete book is freely available as Jupyter Notebooks in the book repo: https://github.com/fastai/fastbook
 - GitHub repo for the **fastai** course - https://course.fast.ai
 
