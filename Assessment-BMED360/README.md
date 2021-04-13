@@ -2,7 +2,7 @@
 
 
 ## - Midterm project (15%):
-**Compulsory assignment on given topic ([Kiwi segmentation challenge](../Midterm-Kiwiw-Project))**
+**Compulsory assignment on given topic ([Kiwi segmentation challenge](https://github.com/computational-medicine/BMED360-2021/blob/main/Midterm-Kiwi-Project/README.md))**
 
 ## - MCQ / Quiz from home (10%):
 **Compulsory (about 50 "simple/basic" MCQs / quizzes across the entire curriculum; 60 min duration - digital from home; at least 60\% correct to pass)**
