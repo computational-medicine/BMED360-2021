@@ -15,6 +15,6 @@
 
 
 
-### Tensorly (Tensor learning i python)
+### Tensorly (tensor learning i python)
 
 - Jean Kossaifi, Yannis Panagakis, Anima Anandkumar and Maja Pantic, TensorLy: Tensor Learning in Python, Journal of Machine Learning Research (JMLR) 2019;20(26):1-6.   http://jmlr.org/papers/v20/18-277.html  /. https://github.com/tensorly/tensorly
