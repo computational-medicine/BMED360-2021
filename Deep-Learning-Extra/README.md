@@ -7,7 +7,7 @@
    - The complete book is freely available as Jupyter Notebooks in the book repo: https://github.com/fastai/fastbook
 - GitHub repo for the **fastai** course - https://course.fast.ai
 
-### Sebastian Raschka (STAT 453 / PyTorch)
+### Sebastian Raschka (STAT 453 @ UW-Madison / PyTorch)
 
 - Book Review: Deep Learning With PyTorch  ([PDF](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf)) - https://sebastianraschka.com/blog/2021/pytorch-deeplearning-review.html
 - STAT 453 -- Introduction to Deep Learning and Generative Models (Spring 2021) - http://pages.stat.wisc.edu/~sraschka/teaching/stat453-ss2021
