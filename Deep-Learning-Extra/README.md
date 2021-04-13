@@ -20,5 +20,5 @@
 
 ### Tensorly (tensor learning i python)
 
-- Jean Kossaifi, Yannis Panagakis, Anima Anandkumar and Maja Pantic, TensorLy: Tensor Learning in Python, Journal of Machine Learning Research (JMLR) 2019;20(26):1-6.   http://jmlr.org/papers/v20/18-277.html  /. https://github.com/tensorly/tensorly
+- Jean Kossaifi, Yannis Panagakis, Anima Anandkumar and Maja Pantic, TensorLy: Tensor Learning in Python, _Journal of Machine Learning Research_ (JMLR) 2019;20(26):1-6.   http://jmlr.org/papers/v20/18-277.html  / https://github.com/tensorly/tensorly
 - [**tensor_manipulation.ipynb**](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Deep-Learning-Extra/01-basics/tensor_manipulation.ipynb)
