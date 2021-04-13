@@ -25,4 +25,4 @@
 _scientific attitude_, _vocabulary_, and _balanced use of text, tables, and figures_; _clarity in presentation_ regarding problem formulation / introduction, methods description, results (if any), discussion, and conclusions; ability to bring enthusiasm for your topic to the audience; keeping time.<br>
 Share your presentation with the examiner / sensor before the exam (see 5.).
 
-7.   Overall grading (spring 2021) is pass / fail    (previously: grading scale was A-F)
+7.   **Overall grading (spring 2021) is pass / fail**    (previously: grading scale was A-F)
