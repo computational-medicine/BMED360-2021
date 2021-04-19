@@ -15,7 +15,7 @@ conda activate bmed360
 
 In the following series of four Jupyter notebooks will explore **multichannel imaging data** from two quite different **imaging modalities** (in terms of physical principles and spatial resolution): 
 - **Imaging Mass Cytometry** ([IMC](./IMC.md))
-- **Magnetic Resonance Imaging** ([MRI](#-sources-of-information-related-to-mri-principles-and-applications))
+- **Magnetic Resonance Imaging** (MRI: see below)
 
 We will also illustrate the **generic nature of computational imaging**, here: unsupervised tissue classification, applied to these two kinds of vector-valued image data recordings.
 
