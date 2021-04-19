@@ -1,17 +1,17 @@
 # IMC: Learning objectives
 
-- xxx
-- xxx
-- xxx
-- xxx
 
+- Be able to roughly explain the principles of IMC and describe the data contained in an IMC experiment and its resulting file
+- Be able to read and display IMC data and asoociated metadata
+- Be able to represnt the IMC data as a Numpy array for further processing and analysis
+    
 ----------------------------
 
 ## Use case: IMC data from Damond et al. 2019
 
 Damond et al. Cell Metabolism 2019;29:755–768.
 
-![BMED320_Damond_etal_2019_Fig_S2A](./assets/BMED320_Damond_etal_2019_Graphical_abstract.png)
+![Damond_etal_2019_Fig_S2A](./assets/Damond_etal_2019_Graphical_abstract.png)
 
 
 ### References and links
@@ -25,7 +25,7 @@ Damond et al. Cell Metabolism 2019;29:755–768.
 
 ### Acquisition of Single-Cell and Islet-Level Data by IMC
 
-![BMED320_Damond_etal_2019_Fig1](./assets/BMED320_Damond_etal_2019_Fig1.jpg)
+![Damond_etal_2019_Fig1](./assets/Damond_etal_2019_Fig1.jpg)
 
 **Damond et al. (2019), Figure 1**<br>
 
@@ -52,17 +52,17 @@ _Scale bars: 100 μm_
 |:-----:|:----:|:----:|:----:|:-----:|:------:|
 |  E08 |  6126 |  E |   Tail |  1    |   Non-diabetic |
 
-![BMED320_Damond_etal_2019_donor_6126_E08](./assets/BMED320_Damond_etal_2019_donor_6126_E08.png)
+![Damond_etal_2019_donor_6126_E08](./assets/Damond_etal_2019_donor_6126_E08.png)
 
 (_Made with [Fiji](https://imagej.net/Fiji) applied to ´E08_a0_full.tiff´_)
 
 
-![BMED320_Damond_etal_2019_donor_6126_E08_6x6](./assets/BMED320_Damond_etal_2019_donor_6126_E08_6x6.png)
+![Damond_etal_2019_donor_6126_E08_6x6](./assets/Damond_etal_2019_donor_6126_E08_6x6.png)
 
 (_Made with [this notebook](https://github.com/arvidl/BMED320-imaging-mass-cytometry-ml/blob/master/notebooks/imc-case-damond-2019/read-analyze-case-6126-E08.ipynb)_)
 
 
-![BMED320_Damond_etal_2019_Fig_S2A](./assets/BMED320_Damond_etal_2019_Fig_S2A.png)
+![Damond_etal_2019_Fig_S2A](./assets/Damond_etal_2019_Fig_S2A.png)
 
 
 ### Extraction of Single-Cell and Islet-Level Data
@@ -77,12 +77,12 @@ Cell segmentation is essential to recover quantitative single-cell information f
 Pancreas samples were obtained from nPOD - Network for Pancreatic Organ Donors with Diabetes "Sharing for cure" (https://www.jdrfnpod.org). All procedures were approved by the University of Florida Institutional Review Board (IRB201600029) and the Zurich Cantonal Ethics Committee (2017-02302).
 For each donor, a medical chart review was performed and C-peptide measured (Campbell-Thompson et al., 2012a) with T1D diagnosis determined or confirmed according to the ADA guidelines. Demographics, length of hospitalization, and organ transport duration information was obtained from hospital records or UNOS. Donor pancreata were recovered, shipped in transport media on ice via organ courier to the University of Florida, and processed by a licensed pathology assistant (Campbell-Thompson et al., 2012b). The cases were selected to represent recent onset T1D (<0.5 years), long-standing T1D (R8 years), and non-diabetes control. Four groups of three donors with different disease duration but matched by age and gender were analyzed. Additional donor information is listed in Table S1.
 
-![BMED320_Damond_etal_2019_TabS1_Clin_data](./assets/BMED320_Damond_etal_2019_TabS1_Clin_data.png)
+![Damond_etal_2019_TabS1_Clin_data](./assets/Damond_etal_2019_TabS1_Clin_data.png)
 
 ### Antibody Testing and Validation
 All antibodies in the panel (**Table 1**) were initially tested by IF on lymphoid tissues (spleen, tonsil, and lymph node) for antibodies targeting immune markers and on pancreas for the other markers. Only antibodies that produced expression patterns consistent with the literature and a high signal intensity were conjugated to metals. After metal labeling, all antibodies were tested again by IMC to ensure that antibody specificity was not affected by conjugation. Finally, the entire antibody panel was used to stain two tissue arrays: an array containing large cores from six different tissues and a microarray containing 78 cores representing 20 different tissues from healthy subjects and cancer patients. In this way, each antibody could be positively validated on tissues known to express the target antigen and negatively validated on tissues known to be negative for that antigen. See also the .cvs file [[table1_IMC_panel_37x4.csv](./data/table1_IMC_panel_37x4.csv)].
 
-![BMED320_Damond_etal_2019_Tab1_IMC_panel](./assets/BMED320_Damond_etal_2019_Tab1_IMC_panel.png)
+![Damond_etal_2019_Tab1_IMC_panel](./assets/Damond_etal_2019_Tab1_IMC_panel.png)
 
 ### Tissue Staining
 Two sections per pancreas, from head, body, or tail, were stained with our full antibody panel (Table 1). Slides were incubated for 1 hr at 60 deg C in a dry oven, deparaffinized in fresh Xylol, and rehydrated through a graded alcohol series. Antigen retrieval was performed in a decloaking chamber (Medite) for 30 min at 95 deg C in Tris-EDTA, pH 9.2. After blocking in buffer containing 10% normal horse serum, slides were incubated overnight at 4 deg C with three primary antibodies: rabbit anti-glucagon-156Gd, rabbit anti-synaptophysin-160Gd, and goat anti-Pdx1 (unconjugated). The next day, slides were incubated with anti-rabbit IgG-Alexa Fluor 488 and anti-Goat IgG-158Gd secondary antibodies for 1 hr at room temperature, followed by Hoechst dye counterstaining (5 min at room temperature). Slide scanner imaging was performed at this stage (see Selection of Areas of Interest below). Two successive overnight incubations at 4C were then performed for labeling with the remainder of primary antibodies (13 primary antibodies on the first night and 19 on the second night). Finally, slides were counterstained with iridium intercalator for 5 min at room temperature, quickly dipped in doubly distilled H2O, and immediately dried with pressurized air.
