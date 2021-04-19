@@ -1,7 +1,25 @@
 # In Vivo Imaging and Physiological Modelling - BMED 360
 
-## Lab1-MRI (also introducing IMC)
 
+## Before you start on this Lab1 (MRI, also introducing IMC): 
+
+
+### Activate the environment:
+```bash
+conda activate bmed360
+```
+
+-------------------------
+
+# Learning objectives
+
+In the following series of four Jupyter notebooks will explore **multichannel imaging data** from two quite different **imaging modalities** (in terms of physical principles and spatial resolution): 
+- **Imaging Mass Cytometry** ([IMC](./IMC.md))
+- **Magnetic Resonance Imaging** ([MRI](./MRI.md))
+
+and illustrate the **generic nature of computational imaging**, here: unsupervised tissue classification, applied to these two kinds of vector-valued image data recordings.
+
+----------
 
 
 - [**00-get-mri-imc-data.ipynb**](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab1-MRI/00-get-mri-imc-data.ipynb) <a href="https://colab.research.google.com/github/computational-medicine/BMED360-2021/blob/main/Lab1-MRI/00-get-mri-imc-data.ipynb">
@@ -9,6 +27,39 @@
 
 Download the IMC and MRI data from Goggle Drive cloud:
 
+```
+Lab1-MRI% tree data
+
+data
+├── imc
+│   ├── E08_a0_full.csv
+│   ├── E08_a0_full.tiff
+│   └── table1_IMC_panel_37x4.csv
+└── mri
+    ├── 0.0-test_nifti.nii.gz
+    ├── BraTS20
+    │   ├── BraTS20_Training_002_HDGlioSeg.nii.gz
+    │   ├── BraTS20_Training_002_flair.nii.gz
+    │   ├── BraTS20_Training_002_seg.nii.gz
+    │   ├── BraTS20_Training_002_t1.nii.gz
+    │   ├── BraTS20_Training_002_t1ce.nii.gz
+    │   └── BraTS20_Training_002_t2.nii.gz
+    ├── brain_roi_mask.nii.gz
+    ├── dess_060.dcm
+    ├── dess_060.nii.gz
+    ├── fisp_060.dcm
+    ├── fisp_060.nii.gz
+    ├── flash_060.dcm
+    ├── flash_060.nii.gz
+    ├── flash_060_brain_mask.png
+    ├── flash_060_training_mask_6cla.png
+    ├── mni_icbm152_t1_tal_nlin_sym_09c.nii.gz
+    ├── multispectral_mri_training_data.csv
+    ├── psif_060.dcm
+    ├── psif_060.nii.gz
+    └── training_mask_1_6.nii.gz
+```
+<!--
 ```
 % tree data
 data
@@ -36,6 +87,7 @@ data
     ├── psif_060.nii.gz
     └── training_mask_1_6.nii.gz
 ```
+-->
 
 - [**01-mri-intro.ipynb**](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab1-MRI/01-mri-intro.ipynb) <a href="https://colab.research.google.com/github/computational-medicine/BMED360-2021/blob/main/Lab1-MRI/01-mri-intro.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
