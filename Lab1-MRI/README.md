@@ -1,10 +1,10 @@
 # In Vivo Imaging and Physiological Modelling - BMED 360
 
 
-## Before you start on this Lab1-MRI (also introducing IMC): 
+### Before you start on this Lab1-MRI (also introducing IMC): 
 
 
-### Activate the environment:
+#### Activate the environment:
 ```bash
 conda activate bmed360
 ```
@@ -17,7 +17,7 @@ In the following series of four Jupyter notebooks will explore **multichannel im
 - **Imaging Mass Cytometry** ([IMC](./IMC.md))
 - **Magnetic Resonance Imaging** ([MRI](./MRI.md))
 
-and illustrate the **generic nature of computational imaging**, here: unsupervised tissue classification, applied to these two kinds of vector-valued image data recordings.
+We will also illustrate the **generic nature of computational imaging**, here: unsupervised tissue classification, applied to these two kinds of vector-valued image data recordings.
 
 ----------
 
