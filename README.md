@@ -124,6 +124,11 @@ Throughout the course you will work with notebooks that contain various material
 
 ## Tentative schedule (fully digital, lectures on Zoom) Spring 2021
 
+![tentative_schedule](./assets/tentative_bmed360_schedule_at_20210419.png)
+
+
+<!--
+
 <p>&nbsp;</p>
 <div><strong>TENTATIVE order of topics and programming labs / demos (Spring 2021)</strong>:</div>
 <div>
@@ -230,6 +235,7 @@ Throughout the course you will work with notebooks that contain various material
 </div>
 <p>&nbsp;</p>
 
+-->
 
 **Syllabus at MittUiB** (https://mitt.uib.no/courses/27782/assignments/syllabus)
 
