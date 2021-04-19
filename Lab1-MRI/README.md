@@ -1,7 +1,7 @@
 # In Vivo Imaging and Physiological Modelling - BMED 360
 
 
-## Before you start on this Lab1 (MRI, also introducing IMC): 
+## Before you start on this Lab1-MRI (also introducing IMC): 
 
 
 ### Activate the environment:
