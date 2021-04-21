@@ -35,7 +35,7 @@ def plot_confusion_matrix(cm, classes, ax=None,
 
     plt.tight_layout()
     bottom, top = ax.get_ylim()
-    ax.set_ylim(bottom + 0.5, top - 0.5)
+    #ax.set_ylim(bottom + 0.5, top - 0.5)
     return ax
 
 def plot_confusion_matrix_with_colorbar(cm, classes, figsize=(8,8), normalize=False,
@@ -65,7 +65,7 @@ def plot_confusion_matrix_with_colorbar(cm, classes, figsize=(8,8), normalize=Fa
     plt.ylabel('True', fontsize=16)
     plt.xlabel('Predicted', fontsize=16)
     bottom, top = ax.get_ylim()
-    ax.set_ylim(bottom + 0.5, top - 0.5)
+    #ax.set_ylim(bottom + 0.5, top - 0.5)
 
 
 # Modified from Geron
