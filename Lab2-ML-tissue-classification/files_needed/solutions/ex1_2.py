@@ -1,0 +1,1 @@
+np.mean((preds == y_test).astype(int))
