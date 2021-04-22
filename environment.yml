@@ -4,7 +4,7 @@ channels:
   - simpleitk
   - conda-forge
   - anaconda
-  - pytorch
+#  - pytorch
 
 dependencies:
   - python==3.8
@@ -40,5 +40,5 @@ dependencies:
   - nilearn
   - pycaret==2.3
   - networkx
-  - pytorch
-  - torchvision
+#  - pytorch
+#  - torchvision
