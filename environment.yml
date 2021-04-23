@@ -46,5 +46,5 @@ dependencies:
 
 # To remove and reinstall the bmed360 environment (if installation problems):
 # conda deactivate
-# conda remove env -n bmed360
+# conda env remove -n bmed360
 # conda env update
