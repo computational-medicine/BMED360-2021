@@ -31,3 +31,9 @@ https://dipy.org/tutorials
 ### Simulators
 
 Fick et al. The Dmipy Toolbox: Diffusion MRI Multi-Compartment Modeling and Microstructure Recovery Made Easy. Front Neuroinform. 2019; 13: 64. [[link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6803556)] Github: https://github.com/AthenaEPI/dmipy
+
+### Other sources for dMRI experiments and analyses
+
+- Examples of diffusion MRI analysis for vision science by Ariel Rokem, U Wash: https://github.com/arokem/visual-white-matter
+- `PyNets`- A Reproducible Workflow for Structural and Functional Connectome Ensemble Learning by Derek Pisner, U Tex, Austin: https://github.com/dPys/PyNets
+- `qsiprep`- Preprocessing and analysis of q-space images from The Lifespan Informatics and Neuroimaging Center at the University of Pennylvannia: https://github.com/PennLINC/qsiprep
