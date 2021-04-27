@@ -30,3 +30,9 @@
 
 
 - [**06-mri-freesurfer-segmentation-bash.ipynb**](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab2-ML-tissue-classification/06-mri-freesurfer-segmentation-bash.ipynb). Requires `Freesurfer`.
+
+
+
+## Additional sources for ML
+
+- **Cross-validation**: evaluating estimator performance (https://scikit-learn.org/stable/modules/cross_validation.html)
