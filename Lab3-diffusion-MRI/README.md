@@ -2,20 +2,27 @@
 
 ### Diffusion MRI
 
-- [**00-get-smri-and-dmri-data.ipynb**](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab3-diffusion-MRI/00-dmri-get-data.ipynb)<a href="https://colab.research.google.com/github/computational-medicine/BMED360-2021/blob/main/Lab3-diffusion-MRI/00-dmri-get-data.ipynb">
+- [**00-dmri-get-data.ipynb**](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab3-diffusion-MRI/00-dmri-get-data.ipynb)<a href="https://colab.research.google.com/github/computational-medicine/BMED360-2021/blob/main/Lab3-diffusion-MRI/00-dmri-get-data.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
+- [**01-dmri-extract-S0s.ipynb**](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab3-diffusion-MRI/01-dmri-extract-S0s.ipynb)<a href="https://colab.research.google.com/github/computational-medicine/BMED360-2021/blob/main/Lab3-diffusion-MRI/01-dmri-extract-S0s.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
+- [**02-dmri-find-affine-fs-brainmask2dwi.ipynb**](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab3-diffusion-MRI/02-dmri-find-affine-fs-brainmask2dwi.ipynb)<a href="https://colab.research.google.com/github/computational-medicine/BMED360-2021/blob/main/Lab3-diffusion-MRI/02-dmri-find-affine-fs-brainmask2dwi.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-
+- [**03-dmri-reconstruction-dti.ipynb**](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab3-diffusion-MRI/03-dmri-reconstruction-dti.ipynb)<a href="https://colab.research.google.com/github/computational-medicine/BMED360-2021/blob/main/Lab3-diffusion-MRI/03-dmri-reconstruction-dti.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+  
+- [**04-dmri-do-affine-reg-anat2dwi.ipynb**](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab3-diffusion-MRI/04-dmri-do-affine-reg-anat2dwi.ipynb)<a href="https://colab.research.google.com/github/computational-medicine/BMED360-2021/blob/main/Lab3-diffusion-MRI/04-dmri-do-affine-reg-anat2dwi.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+  
+- [**05-dmri-dti-feature-extraction-roi-wise.ipynb**](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab3-diffusion-MRI/05-dmri-dti-feature-extraction-roi-wise.ipynb)<a href="https://colab.research.google.com/github/computational-medicine/BMED360-2021/blob/main/Lab3-diffusion-MRI/05-dmri-dti-feature-extraction-roi-wise.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+  
 
 TODO: Check the notebooks from https://github.com/arvidl/viola-ibs-imaging e.g.
 
-- https://github.com/arvidl/viola-ibs-imaging/blob/master/notebooks/06-dipy-S0s.ipynb
-- https://github.com/arvidl/viola-ibs-imaging/blob/master/notebooks/07-dipy-find-affine-brainmask2dwi.ipynb
-- https://github.com/arvidl/viola-ibs-imaging/blob/master/notebooks/08-dipy-reconstruction-dti.ipynb
-- https://github.com/arvidl/viola-ibs-imaging/blob/master/notebooks/09-dipy-do-affine-reg-anat2dwi.ipynb
-- https://github.com/arvidl/viola-ibs-imaging/blob/master/notebooks/10-dti-feature-extraction-roi-wise.ipynb
 - https://github.com/arvidl/viola-ibs-imaging/blob/master/notebooks/11-dti-feature-analysis-roi-wise.ipynb
 - https://github.com/arvidl/viola-ibs-imaging/blob/master/notebooks/12-dti-fa-feature-extraction-and-classification.ipynb
 - https://github.com/arvidl/viola-ibs-imaging/blob/master/notebooks/utils.py
