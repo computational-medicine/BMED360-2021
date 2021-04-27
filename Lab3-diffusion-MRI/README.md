@@ -26,11 +26,8 @@
   
   
 
-TODO: Check the notebooks from https://github.com/arvidl/viola-ibs-imaging e.g.
+TODO: Check the notebooks from https://github.com/arvidl/viola-ibs-imaging 
 
-- https://github.com/arvidl/viola-ibs-imaging/blob/master/notebooks/12-dti-fa-feature-extraction-and-classification.ipynb
-- https://github.com/arvidl/viola-ibs-imaging/blob/master/notebooks/utils.py
-- https://github.com/arvidl/viola-ibs-imaging/tree/master/notebooks/assets
 
 
 ### DiPy tutorials
