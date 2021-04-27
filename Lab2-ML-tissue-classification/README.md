@@ -38,6 +38,6 @@
 - **Preprocessing data** (_standardization_ [zero mean and unit variance], _normalization_, _discretization_, and more) - https://scikit-learn.org/stable/modules/preprocessing.html
 - **Nearest Neighbors** (unsupervised and supervised _NN classification_ and _NN regression_) - https://scikit-learn.org/stable/modules/neighbors.html
 - **Cross-validation**: evaluating estimator performance - https://scikit-learn.org/stable/modules/cross_validation.html
-- **Ensemble methods** (_weak learnings_, _voting classifier_, _stacking_ and more) - https://scikit-learn.org/stable/modules/ensemble.html
+- **Ensemble methods** (_weak learners_, _voting classifier_, _stacking_, and more) - https://scikit-learn.org/stable/modules/ensemble.html
 - **Clustering** (_K-means_, _agglomerative_, clustering performance evaluation, and more) - https://scikit-learn.org/stable/modules/clustering.html
 - **Metrics and scoring**: quantifying the quality of predictions - https://scikit-learn.org/stable/modules/model_evaluation.html
