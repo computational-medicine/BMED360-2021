@@ -66,7 +66,7 @@ On Mac you will also need to do:
 ## Other Software and information sources
 
 - Model-Free Deconvolution of 4D DCE MRI scans (https://github.com/liob/non-parametric_deconvolution) [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31276264)]
-- Analysis of Dynamic Susceptibility Contrast (DSC) MRI (https://github.com/QIICR/DSC_Analysis) - not updated for 3 years
+- Analysis of Dynamic Susceptibility Contrast (DSC) MRI (https://github.com/QIICR/DSC_Analysis) and on |3Dslicer](https://www.slicer.org/w/index.php/Documentation/Nightly/Modules/DSC_MRI_Analysis) - not updated for 3 years
 
 - [Introduction to DSC-MRI from Siemens](https://www.siemens-healthineers.com/siemens_hwem-hwem_ssxa_websites-context-root/wcm/idc/groups/public/@global/@imaging/@mri/documents/download/mdaw/mtix/~edisp/brain_perfusion_how_why-00093544.pdf)
 - [Equations for conversion of signal to concentration for DSC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2657863)
