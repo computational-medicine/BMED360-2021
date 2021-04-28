@@ -3,15 +3,18 @@
 ##  Lab4-perfusion-MRI
 
 
+**We recommend exploration of `Quantiphys` - a viewer and data processing tool for 3D/4D medical imaging data**
 
-## Software
-
-- Model-Free Deconvolution of 4D DCE MRI scans (https://github.com/liob/non-parametric_deconvolution) [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31276264)]
-- ...
 
 -----------------------
 
-### [Quantiphyse](https://quantiphyse.readthedocs.io/en/latest)  (making a new virtual environment `qp` - other than `bmed360v2020`)
+### Quantiphyse 
+
+- NOTE: you shlould make and use a new virtual environment `qp` other than `bmed360` (see below)
+
+- Quantiphyse on GitHub: https://github.com/physimals/quantiphyse
+
+- Quantiphyse `readthedocs`: https://quantiphyse.readthedocs.io/en/latest
 
 - Quantiphyse is a **visualisation and analysis tool for 3D and 4D biomedical data**. It is particularly suited for physiological or functional imaging timeseries data.
 
@@ -24,6 +27,9 @@
 - Quantiphyse enables [batch processing](https://quantiphyse.readthedocs.io/en/latest/advanced/batch.html) to run a set of analysis / processing steps on a whole set of files, without needing to manually load and save the files separately within the GUI. Quantiphyse provides a simple batch processing system which gives access to most of the processing steps available from the GUI, where the batch files are written in YAML syntax.
 
 - Quantiphyse is Open Source software, licensed under the Apache Public License version 2.0 and © 2017-2020 University of Oxford, and available on GitHub: https://github.com/ibme-qubic/quantiphyse.
+
+
+
 
 #### Dynamic Susceptibility Contrast (DSC) MRI
 
@@ -38,7 +44,7 @@ The DSC-MRI package provides a Bayesian modelling tool for quantification of per
 See **installation for Anaconda 3.x** (dependencies from pip) [[here](https://quantiphyse.readthedocs.io/en/latest/basics/install.html#anaconda-python-3-x-dependencies-from-pip)]
 
 > `conda deactivate`
-> `conda create -n qp python=3.7`
+> `conda create -n qp python=3.8`
 > `conda activate qp`
 > `pip install quantiphyse`
 
@@ -51,3 +57,10 @@ On Mac you will also need to do:
 > `pip install pyobjc`
 
 **Start the program** by typing `quantiphyse` at a command prompt.
+
+
+
+### Other Software
+
+- Model-Free Deconvolution of 4D DCE MRI scans (https://github.com/liob/non-parametric_deconvolution) [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31276264)]
+- ...
