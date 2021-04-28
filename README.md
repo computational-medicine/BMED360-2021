@@ -72,7 +72,7 @@ Throughout the course you will work with notebooks that contain various material
    - [[Lab0-03-begin-image-processing-basics](https://github.com/computational-medicine/BMED360-2021/blob/main/Lab0-beginners-guide/03-begin-image-processing-basics.ipynb)] (relevant for the [Midterm-Kiwi-Project](./Midterm-Kiwi-Project#readme))
    -  (and optionally, [Prog4comp-SL-HPL-Extra](./Prog4comp-SL-HPL-Extra) for those who want to go deeper into numerical computing and simulations)
 - **Lab 1**: **Data analysis, image processing, and modelling in Python**
-  - [[Lab1-00-get-mri-imc-data](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab1-MRI/00-get-mri-imc-data.ipynb)] (download MRI and IMC ([_Imaging Mass Cytometry_](https://www.fluidigm.com/applications/imaging-mass-cytometry)) data used in this Lab)
+  - [[Lab1-00-get-mri-imc-data](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab1-MRI/00-get-mri-imc-data.ipynb)] (download MRI and IMC ([_Imaging Mass Cytometry_](https://www.fluidigm.com/applications/imaging-mass-cytometry)@FLUIDIGM) data used in this Lab)
   - [[Lab1-01-mri-intro](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab1-MRI/01-mri-intro.ipynb)]
   - [[Lab1-02-mri-multispectral](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab1-MRI/02-mri-multispectral.ipynb)] 
   - [[Lab1-03-mri-snr-cnr](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab1-MRI/03-mri-snr-cnr.ipynb)]
