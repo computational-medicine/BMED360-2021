@@ -11,3 +11,5 @@
 - MITK-ModelFit: A generic open-source framework for model fits and their exploration in medical imaging – design, implementation and application on the example of DCE-MRI (http://mitk.org/wiki/MITK-ModelFit ; https://phabricator.mitk.org/source/mitk.git)    [[PDF](https://bmcbioinformatics.biomedcentral.com/track/pdf/10.1186/s12859-018-2588-1)]
 
 - PKModellingPy is a software tool written in Python that provides pharmacokinetic (PK) modeling (based on Tofts Model) for dynamic contrast enhanced MRI (DCE MRI). IPython provides a rich architecture for interactive PK Modelling. https://github.com/mehrtash/PKModellingPy
+
+- Ole Gunnar Johansen. DCE-MRI Pharmacokinetic Model Optimization and Implications for Brain Cancer Imaging. MSc thesis in Medical Physics and Biophysics, Department of Physics, University of Oslo. 2018.  Implementation in Python (https://github.com/olegjo/Masteroppgave) [[pdf](https://www.duo.uio.no/bitstream/handle/10852/61659/thesis_FINAL.pdf?sequence=1&isAllowed=y)]
