@@ -80,6 +80,7 @@ Throughout the course you will work with notebooks that contain various material
   - [[Lab1-03-mri-snr-cnr](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab1-MRI/03-mri-snr-cnr.ipynb)]
   - [[Lab1-04-imc-intro](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab1-MRI/04-imc-intro.ipynb)]
 - **Lab 2**: **Machine learning, multispectral imaging and tissue classification**
+  - [[README](https://github.com/computational-medicine/BMED360-2021/tree/main/Lab2-ML-tissue-classification#readme)]
   - [[Lab2-00-recap-python](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab2-ML-tissue-classification/00-recap-python.ipynb)]
   - [[Lab2-01-intro-example](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab2-ML-tissue-classification/01-intro-example.ipynb)]
   - [[Lab2-02-extensive-example](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab2-ML-tissue-classification/02-extensive-example.ipynb)] 
