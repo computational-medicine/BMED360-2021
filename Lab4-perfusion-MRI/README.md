@@ -63,7 +63,13 @@ On Mac you will also need to do:
 
 
 
-### Other Software
+## Other Software and information sources
 
 - Model-Free Deconvolution of 4D DCE MRI scans (https://github.com/liob/non-parametric_deconvolution) [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31276264)]
-- ...
+- Analysis of Dynamic Susceptibility Contrast (DSC) MRI (https://github.com/QIICR/DSC_Analysis) - not updated for 3 years
+
+- [Introduction of DSC MRI from Siemens](https://www.siemens-healthineers.com/siemens_hwem-hwem_ssxa_websites-context-root/wcm/idc/groups/public/@global/@imaging/@mri/documents/download/mdaw/mtix/~edisp/brain_perfusion_how_why-00093544.pdf)
+- [Equations for conversion of signal to concentration for DSC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2657863)
+- Other method to investigate DSC MRI 
+     - Akbari et al. [Pattern Analysis of Dynamic Susceptibility Contrast-enhanced MR Imaging Demonstrates Peritumoral Tissue Heterogeneity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4208985/pdf/radiol.14132458.pdf) Radiology 2014;273(2):502-510.
+     - Boxerman et al. [Relative cerebral blood volume maps corrected for contrast agent extravasation significantly correlate with glioma tumor grade, whereas uncorrected maps do not](https://pubmed.ncbi.nlm.nih.gov/16611779) Am J Neuroradiol 2006;27(4):859-867.
