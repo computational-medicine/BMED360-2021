@@ -47,9 +47,11 @@ Fick et al. The Dmipy Toolbox: Diffusion MRI Multi-Compartment Modeling and Micr
 - `qsiprep`- Preprocessing and analysis of q-space images from The Lifespan Informatics and Neuroimaging Center at the University of Pennylvannia: https://github.com/PennLINC/qsiprep
 - `grr_dti_tutorial` - Using dipy to explore Diffusion Weighted Imaging and Tractography by M. Castello & M. de Villemejane at Dartmouth College: https://github.com/mvdoc/grr_dti_tutorial
 
+----------------------
 
 Some illustrative figures from Rokem et al. The visual white matter: The application of diffusion MRI and fiber tractography to vision science. Jouranal of Vision 2017;17(2):   (Licensed under a Creative Commons Attribution 4.0 International License)
 
-![Fig 1](https://arvo.silverchair-cdn.com/arvo/content_public/journal/jov/936040/i1534-7362-17-2-4-f01.png?Expires=1622626454&Signature=Ed5nx2sga2h~sKmT225BxcF4tJ0nYw2xIejD1BJ7r0SYWW4TpWwAoYh2DM7~Hs9tSO~peLc~6te6404pcIDMGJ3j7~NusDcMv74kO88xbiqC5i0vopC6D7i0YGlaTDQRKN8j94Jmqi-daFKOLR7PFOFl~8KrBrcoWB81XKsli2avVZq~uTCOxacqc0Z6xv2FNLz6C8MQ1v5j3PC63yBisszMuZ5txGU1eCHLFKqxIqggSuhfD87UckryFSpN3zMcgN3WjzNEN03sa-CuRy1rgzVYKiPZfN3sfp-mD8PW0fCSk4kPc0rgCmbhctRbfNhPYV7HjXocO8fm5xF7r6MhwA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
+<img src="https://arvo.silverchair-cdn.com/arvo/content_public/journal/jov/936040/i1534-7362-17-2-4-f01.png">
+
 
 
