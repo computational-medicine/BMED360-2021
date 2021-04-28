@@ -1,6 +1,6 @@
 # In Vivo Imaging and Physiological Modelling - BMED 360 Spring 2021
 
-## ( with [_ad hoc_](./outbreak-science/README_outbr_sci.md) curriculum* on COVID-19 and "outbreak science" )
+## ( with [_ad hoc_](https://github.com/computational-medicine/BMED360-2021/tree/main/Outbreak-Science-Extra#readme) curriculum* on COVID-19 and "outbreak science" )
 
 [Work in progress ver. 2021-04-28]
 
