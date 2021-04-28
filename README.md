@@ -2,7 +2,7 @@
 
 ## ( with [_ad hoc_](./outbreak-science/README_outbr_sci.md) curriculum* on COVID-19 and "outbreak science" )
 
-[Work in progress ver. 2021-04-15]
+[Work in progress ver. 2021-04-28]
 
 ![BMED360 image](./assets/bmed360_logo.png)
 
@@ -95,8 +95,8 @@ Throughout the course you will work with notebooks that contain various material
   - [[06-diff](./diffusion/06-diff-dipy-dti-feature-extraction-roi-wise.ipynb)]
 --->
 - **Lab 4**: **Processing of perfusion MRI (pMRI / DSC-MRI)**  
-  - [[README](./perfusion/README.md)] 
-  - [[01-perf](./perfusion/01-perf-explore.ipynb)]
+  - [[README](https://github.com/computational-medicine/BMED360-2021/blob/main/Lab4-perfusion-MRI#readme)] 
+  - [[01-perf](./Lab4-perfusion-MR/01-perf-explore.ipynb)]
 - **Lab 5**: **Vascular permeability mapping (DCE-MRI)** 
   - [[README](./permeability/README.md)]
 - **Lab 6**: **Network science and Graphs**
