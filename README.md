@@ -85,7 +85,7 @@ Throughout the course you will work with notebooks that contain various material
   - [[Lab2-04-mri-knn-tissue-classification](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab2-ML-tissue-classification/04-mri-knn-tissue-classification.ipynb)] 
   - [[Lab2-05-mri-kmeans-tissue-classification](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab2-ML-tissue-classification/05-mri-kmeans-tissue-classification.ipynb)]
 - **Lab 3**: **Processing of diffusion MRI (dMRI / DTI)**  [[DIPY](https://dipy.org)]  
-  - [[README](./diffusion/README_diff.md)] 
+  - [[README](./diffusion/README.md)] 
 <!--
   - [[01-diff](./diffusion/01-diff-random-walks.ipynb)] 
   - [[02-diff](./diffusion/02-diff-dipy-S0s.ipynb)] 
@@ -95,10 +95,10 @@ Throughout the course you will work with notebooks that contain various material
   - [[06-diff](./diffusion/06-diff-dipy-dti-feature-extraction-roi-wise.ipynb)]
 --->
 - **Lab 4**: **Processing of perfusion MRI (pMRI / DSC-MRI)**  
-  - [[README](./perfusion/README_perf.md)] 
+  - [[README](./perfusion/README.md)] 
   - [[01-perf](./perfusion/01-perf-explore.ipynb)]
 - **Lab 5**: **Vascular permeability mapping (DCE-MRI)** 
-  - [[README](./permeability/README_perm.md)]
+  - [[README](./permeability/README.md)]
 - **Lab 6**: **Network science and Graphs**
   - [[Lab6-01-Concepts-in-network-theory](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab6-Networks-Graphs/01-Concepts-in-network-theory.ipynb)]  
   - [[Lab6-02-Network-based-statistics](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab6-Networks-Graphs/02-Network-based-statistics.ipynb)]
