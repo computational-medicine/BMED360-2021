@@ -85,7 +85,7 @@ Throughout the course you will work with notebooks that contain various material
   - [[Lab2-04-mri-knn-tissue-classification](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab2-ML-tissue-classification/04-mri-knn-tissue-classification.ipynb)] 
   - [[Lab2-05-mri-kmeans-tissue-classification](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab2-ML-tissue-classification/05-mri-kmeans-tissue-classification.ipynb)]
 - **Lab 3**: **Processing of diffusion MRI (dMRI / DTI)**  [[DIPY](https://dipy.org)]  
-  - [[README](./diffusion/README.md)] 
+  - [[README](https://github.com/computational-medicine/BMED360-2021/tree/main/Lab3-diffusion-MRI#readme)] 
 <!--
   - [[01-diff](./diffusion/01-diff-random-walks.ipynb)] 
   - [[02-diff](./diffusion/02-diff-dipy-S0s.ipynb)] 
