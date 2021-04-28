@@ -66,6 +66,7 @@ Throughout the course you will work with notebooks that contain various material
 **LABS**:
 
 - **Lab 0** (before the course): [**SW installation**](setup.md) and **Beginner's guides** 
+   - [[README](https://github.com/computational-medicine/BMED360-2021/tree/main/Lab0-beginners-guide#readme)]
    - [[Lab0-00-begin-python-programming-language](https://github.com/computational-medicine/BMED360-2021/blob/main/Lab0-beginners-guide/00-begin-python-programming-language.ipynb)] (operators, control structures, lists, dictionaries, and more ...)
    - [[Lab0-01-jupyter-notebook-markdown-basics](https://github.com/computational-medicine/BMED360-2021/blob/main/Lab0-beginners-guide/01-jupyter-notebook-markdown-basics.ipynb)] (how to use the rich functionality of [_Markdown Cells_](https://jupyter-notebook.readthedocs.io/en/latest/examples/Notebook/Working%20With%20Markdown%20Cells.html) in Jupyter notebooks)
    - [[Lab0-02-begin-pandas-basics](https://github.com/computational-medicine/BMED360-2021/blob/main/Lab0-beginners-guide/02-begin-pandas-basics.ipynb)] (likely the most important data analysis and manipulation tool for Python)
