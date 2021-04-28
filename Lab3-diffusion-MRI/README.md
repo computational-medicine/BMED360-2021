@@ -51,7 +51,7 @@ Fick et al. The Dmipy Toolbox: Diffusion MRI Multi-Compartment Modeling and Micr
 
 Some illustrative figures from Rokem et al. The visual white matter: The application of diffusion MRI and fiber tractography to vision science. Jouranal of Vision 2017;17(2):1-30.   (Licensed under a Creative Commons Attribution 4.0 International License)
 
-<img width=“964” alt=“Rokem et al. 2017 Fig 1” src="https://arvo.silverchair-cdn.com/arvo/content_public/journal/jov/936040/m_i1534-7362-17-2-4-f01.png?Expires=1622626454&Signature=05tOvHMNABuAt~e1jgqELXgTykDsft6kKm4OiVXzVRwC~6iSpgHVkV-xf4BMUVhoPfOuETXq60tW~ihxokZG5U1WJ0K6KE0YIZSpBvjreBOX1Ax~k3DQf1IJmf8lPNo4vwVlKoWuv83YNwy-Ty2qz-S3mE-ZlSa8flQMWeF5bnWkkjxIFWbmblgNfQ8cxdcFIVwxmW46-e~pO5sq1ir95BfjFBKLvUYdqnE2XVWWhxgSTo58obcjEZnEYTLuLf5ns3-rEtLZvxf1PBb~Lktsr5I~cQMikzevDwS1Zc32kImbzlHHnb12xnpkl6zVwdNVGhrz7ctMxb0QGG6xCBQbkA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA">
+<img alt="Rokem et al. 2017 Fig 1" src="https://arvo.silverchair-cdn.com/arvo/content_public/journal/jov/936040/m_i1534-7362-17-2-4-f01.png?Expires=1622626454&Signature=05tOvHMNABuAt~e1jgqELXgTykDsft6kKm4OiVXzVRwC~6iSpgHVkV-xf4BMUVhoPfOuETXq60tW~ihxokZG5U1WJ0K6KE0YIZSpBvjreBOX1Ax~k3DQf1IJmf8lPNo4vwVlKoWuv83YNwy-Ty2qz-S3mE-ZlSa8flQMWeF5bnWkkjxIFWbmblgNfQ8cxdcFIVwxmW46-e~pO5sq1ir95BfjFBKLvUYdqnE2XVWWhxgSTo58obcjEZnEYTLuLf5ns3-rEtLZvxf1PBb~Lktsr5I~cQMikzevDwS1Zc32kImbzlHHnb12xnpkl6zVwdNVGhrz7ctMxb0QGG6xCBQbkA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" width="800px" heigh="auto">
 
 
 
