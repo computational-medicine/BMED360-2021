@@ -48,7 +48,7 @@ See **installation for Anaconda 3.x** (dependencies from pip) [[here](https://qu
 > `conda activate qp`<br>
 > `pip install quantiphyse`<br>
 
-This installs the basic Quantiphyse app. To install plugins use pip, for example this is to install all current plugins:
+This installs the basic Quantiphyse app. To install plugins use `pip` (in the `qp` conda environment), for example this is to install all current plugins:
 
 > `pip install quantiphyse-cest quantiphyse-asl quantiphyse-qbold quantiphyse-dce quantiphyse-dsc quantiphyse-t1 quantiphyse-fsl quantiphyse-sv quantiphyse-perfsim`
 
@@ -56,7 +56,7 @@ On Mac you will also need to do:
 
 > `pip install pyobjc`
 
-**Start the program** by typing `quantiphyse` at a command prompt.
+**Start the program** by typing `quantiphyse` at the command prompt.
 
 
 
