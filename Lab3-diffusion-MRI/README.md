@@ -51,7 +51,15 @@ Fick et al. The Dmipy Toolbox: Diffusion MRI Multi-Compartment Modeling and Micr
 
 Some illustrative figures from Rokem et al. The visual white matter: The application of diffusion MRI and fiber tractography to vision science. Jouranal of Vision 2017;17(2):1-30.   (Licensed under a Creative Commons Attribution 4.0 International License)
 
+- Figure 1
 <img alt="Rokem et al. 2017 Fig 1" src="https://arvo.silverchair-cdn.com/arvo/content_public/journal/jov/936040/m_i1534-7362-17-2-4-f01.png?Expires=1622626454&Signature=05tOvHMNABuAt~e1jgqELXgTykDsft6kKm4OiVXzVRwC~6iSpgHVkV-xf4BMUVhoPfOuETXq60tW~ihxokZG5U1WJ0K6KE0YIZSpBvjreBOX1Ax~k3DQf1IJmf8lPNo4vwVlKoWuv83YNwy-Ty2qz-S3mE-ZlSa8flQMWeF5bnWkkjxIFWbmblgNfQ8cxdcFIVwxmW46-e~pO5sq1ir95BfjFBKLvUYdqnE2XVWWhxgSTo58obcjEZnEYTLuLf5ns3-rEtLZvxf1PBb~Lktsr5I~cQMikzevDwS1Zc32kImbzlHHnb12xnpkl6zVwdNVGhrz7ctMxb0QGG6xCBQbkA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" width="800px" heigh="auto">
+Postmortem and in vivo study of the visual white matter. (A) Postmortem dissection of the optic radiation (OR), showing the Meyer's loop bilaterally (blue arrows; adapted from Sherbondy et al., 2008b). (B) In vivo dissection of the optic radiation showing the optic chiasm, Meyer's loop, and the optic tract as well as both primary visual cortex (V1) and the LGN (Ogawa et al., 2014).
+
+
+- Figure 2
+<img alt="Rokem et al. 2017 Fig 2" src="https://arvo.silverchair-cdn.com/arvo/content_public/journal/jov/936040/m_i1534-7362-17-2-4-f02.png?Expires=1622626454&Signature=d0YveQDfmTCbyYM0Tlm7A3C9y05OaQ5xYIq~ymeWL2DCA8Q9Sij5zqprHRWn2Q3r4yjLHNtfafvzFCrxlUQvjPjZGaJadXwQGMr4FPwxTilvZRGIO6Hv6Fg3COrWPA3po0B3bLOCNkYoM3tb7vCFZK9tvHSXNfjExz4WEmC~QHqDsNMco70yprnNxcKJ9ogw-pTAuE-G7Y2m0lU5rC8LfqHN0ap6GlEMEG4CeHQNTfgA7LDHv5bPLw6Kn5VCjO-NtweiN5p18KVaz-ccyMNCn4HmxZ0gWUD54hnB1AhYQN7d2bUbuGSmFcMYDOzXrXeLU16TDZI1516yi5hx6p1P0Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" width="800px" heigh="auto">
+Inferences about white matter from measurements of water diffusion. (A) Micrograph of the human optic nerve. Left, bundles of myelinated axonal fascicles from the human optic nerve (image courtesy of Dr. George Bartzokis). Right, cartoon example of anisotropic water diffusion restriction by white matter fascicles. Water diffuses further along the direction of the “tube” (Pierpaoli & Basser, 1996). (B) Example of diffusion-weighted magnetic resonance measurements in a single slice of a living human brain. The same brain slice is shown as imaged with two different diffusion weighting directions. Diffusion weighting directions are shown by the inset arrows. The white highlighted area indicates the approximate location of part of the optic radiation (OR). The longitudinal shape of the OR appears as a local darkening of the MRI image when the diffusion-weighting gradient is aligned with the direction of the myelinated fascicles within the OR (right-hand panel).
+
 
 
 
