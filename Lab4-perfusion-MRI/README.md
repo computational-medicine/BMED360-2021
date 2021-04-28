@@ -43,10 +43,10 @@ The DSC-MRI package provides a Bayesian modelling tool for quantification of per
 
 See **installation for Anaconda 3.x** (dependencies from pip) [[here](https://quantiphyse.readthedocs.io/en/latest/basics/install.html#anaconda-python-3-x-dependencies-from-pip)]
 
-> `conda deactivate`
-> `conda create -n qp python=3.8`
-> `conda activate qp`
-> `pip install quantiphyse`
+> `conda deactivate`<br>
+> `conda create -n qp python=3.8`<br>
+> `conda activate qp`<br>
+> `pip install quantiphyse`<br>
 
 This installs the basic Quantiphyse app. To install plugins use pip, for example this is to install all current plugins:
 
