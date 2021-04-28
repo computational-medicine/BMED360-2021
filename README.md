@@ -96,9 +96,8 @@ Throughout the course you will work with notebooks that contain various material
 --->
 - **Lab 4**: **Processing of perfusion MRI (pMRI / DSC-MRI)**  
   - [[README](https://github.com/computational-medicine/BMED360-2021/blob/main/Lab4-perfusion-MRI#readme)] 
-  - [[01-perf](./Lab4-perfusion-MR/01-perf-explore.ipynb)]
 - **Lab 5**: **Vascular permeability mapping (DCE-MRI)** 
-  - [[README](./permeability/README.md)]
+  - [[README](https://github.com/computational-medicine/BMED360-2021/tree/main/Lab5-DCE-MRI#readme)]
 - **Lab 6**: **Network science and Graphs**
   - [[Lab6-01-Concepts-in-network-theory](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab6-Networks-Graphs/01-Concepts-in-network-theory.ipynb)]  
   - [[Lab6-02-Network-based-statistics](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab6-Networks-Graphs/02-Network-based-statistics.ipynb)]
