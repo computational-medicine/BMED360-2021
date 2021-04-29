@@ -24,6 +24,8 @@
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
   uses **BIDS** structure and information (cf. `pip install pybids`)
   
+- [**07-dmri-dti-feature-extraction-roi-wise.ipynb**](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab3-diffusion-MRI/05-dmri-dti-feature-extraction-roi-wise.ipynb)<a href="https://colab.research.google.com/github/computational-medicine/BMED360-2021/blob/main/Lab3-diffusion-MRI/05-dmri-dti-feature-extraction-roi-wise.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  
   
 
 TODO: Check the notebooks from https://github.com/arvidl/viola-ibs-imaging 
