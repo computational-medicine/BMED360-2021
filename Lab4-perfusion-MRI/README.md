@@ -86,11 +86,7 @@ On Mac you will also need to do:
 
 - N. Debs et al. Impact of the reperfusion status for predicting the final stroke infarct using deep learning. Neuroimage Clin 2021;29:102548 [[online](https://pubmed.ncbi.nlm.nih.gov/33450521)]
 <img alt="Debs et al. 2021 Graphical abstract" src="https://ars.els-cdn.com/content/image/1-s2.0-S2213158220303855-ga1_lrg.jpg" width="800px" heigh="auto">
-Graphical abstract (CC BY-NC-ND 4.0)
-<img alt="Debs et al. 2021 Fig. 2" src="https://ars.els-cdn.com/content/image/1-s2.0-S2213158220303855-gr2_lrg.jpg" width="800px" heigh="auto">
-Overview of the proposed deep learning architecture. Top left: The network takes five MRI images (2D slices from DWI, ADC, CBV, CBF, Tmax volumes) as input. Below: Each input image is processed independently on 5 separate branches. Pink, purple, yellow, red and green feature maps result from 2D-convolutions and maxpooling. The output of the 5 branches are then concatenated, and upsampled through 2D-deconvolution layers. The network produces an output map with 3 classes (lesion, healthy tissue and background). Top Right: The predicted lesion has to be compared to the true lesion from the final FLAIR. (CC BY-NC-ND 4.0)
-
-<br>
+Graphical abstract (CC BY-NC-ND 4.0) <img alt="Debs et al. 2021 Fig. 2" src="https://ars.els-cdn.com/content/image/1-s2.0-S2213158220303855-gr2_lrg.jpg" width="800px" heigh="auto"> Overview of the proposed deep learning architecture. Top left: The network takes five MRI images (2D slices from DWI, ADC, CBV, CBF, Tmax volumes) as input. Below: Each input image is processed independently on 5 separate branches. Pink, purple, yellow, red and green feature maps result from 2D-convolutions and maxpooling. The output of the 5 branches are then concatenated, and upsampled through 2D-deconvolution layers. The network produces an output map with 3 classes (lesion, healthy tissue and background). Top Right: The predicted lesion has to be compared to the true lesion from the final FLAIR. (CC BY-NC-ND 4.0)
 
 
 - J.W. Sanders et al. Synthetic generation of DSC-MRI-derived relative CBV maps from DCE MRI of brain tumors. Magn Reson Med 2021;85(1):469-479 [[online](https://onlinelibrary.wiley.com/doi/epdf/10.1002/mrm.28432)] (Code: https://github.com/jeremiahws/dlae)
