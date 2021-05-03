@@ -91,3 +91,7 @@ Graphical abstract (CC BY-NC-ND 4.0) <img alt="Debs et al. 2021 Fig. 2" src="htt
 
 
 - J.W. Sanders et al. Synthetic generation of DSC-MRI-derived relative CBV maps from DCE MRI of brain tumors. Magn Reson Med 2021;85(1):469-479 [[online](https://onlinelibrary.wiley.com/doi/epdf/10.1002/mrm.28432)] (Code: https://github.com/jeremiahws/dlae)
+
+- Y. Yu et al. Use of Deep Learning to Predict Final Ischemic Stroke Lesions From Initial Magnetic Resonance Imaging. JAMA Netw Open 2020;3(3):e200772 [[online](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2762679)]
+<img alt="Yu et al. 2020 Fig. 2" src="https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/938397/zoi200050f2_1602778823.69581.png?Expires=1623086601&Signature=t~z8xgp0A89FnGgLtJMBKkJuUDRi1s6t8zhgubtlqoWgTAOrXMO3UY0Q-lbl5b~0T3qpMNbdXgeEBsC~yBsyhMz47hYQsKE5iYGTy5uqtSO3q~rKdTCUxzjt~c4pNjrEUYrTCrBMGJC0jvGH5h8GWBDefwa-cAel4VhwU-A9cUnoAAoZDbvwKqra4HOT7MR3dvX5pMPviyBJ-l6lbiPnzvN93vQvfYHO2QYVFcX1IJzyPS2obS8xfzKuvneBkJY7bj6QpNnhcLoc3NL4FwlMVCTKQvrQrfcnWfN1xHMsjyLOJr0YlBtuA-J9xvTiVIg9hGrSwIksmDUgdI9OA1mX6A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" width="800px" heigh="auto">
+Figure 2.  Examples of Predictions From the Model Compared With Thresholding Methods in Typical Cases (CC-BY License).
