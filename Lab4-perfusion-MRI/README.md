@@ -85,3 +85,5 @@ On Mac you will also need to do:
 ## Deep learning and perfusion MRI
 
 - N. Debs et al. Impact of the reperfusion status for predicting the final stroke infarct using deep learning. Neuroimage Clin 2021;29:102548 [[online](https://pubmed.ncbi.nlm.nih.gov/33450521)]
+
+https://ars.els-cdn.com/content/image/1-s2.0-S2213158220303855-ga1_lrg.jpg
