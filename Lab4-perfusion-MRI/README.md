@@ -80,3 +80,8 @@ On Mac you will also need to do:
 - Other method to investigate DSC MRI:
      - Akbari et al. [Pattern Analysis of Dynamic Susceptibility Contrast-enhanced MR Imaging Demonstrates Peritumoral Tissue Heterogeneity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4208985/pdf/radiol.14132458.pdf) Radiology 2014;273(2):502-510.
      - Boxerman et al. [Relative cerebral blood volume maps corrected for contrast agent extravasation significantly correlate with glioma tumor grade, whereas uncorrected maps do not](https://pubmed.ncbi.nlm.nih.gov/16611779) Am J Neuroradiol 2006;27(4):859-867.
+
+
+## Deep learning and perfusion MRI
+
+- N. Debs et al. Impact of the reperfusion status for predicting the final stroke infarct using deep learning. Neuroimage Clin 2021;29:102548 [[online](https://pubmed.ncbi.nlm.nih.gov/33450521)]
