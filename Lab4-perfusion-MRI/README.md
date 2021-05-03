@@ -88,7 +88,7 @@ On Mac you will also need to do:
 
 
 <img alt="Debs et al. 2021 Graphical abstract" src="https://ars.els-cdn.com/content/image/1-s2.0-S2213158220303855-ga1_lrg.jpg" width="800px" heigh="auto">
-Graphical abstract (CC BY-NC-ND 4.0)
+Graphical abstract (CC BY-NC-ND 4.0)<br> <br>
 
 
 <img alt="Debs et al. 2021 Fig. 2" src="https://ars.els-cdn.com/content/image/1-s2.0-S2213158220303855-gr2_lrg.jpg" width="800px" heigh="auto">
