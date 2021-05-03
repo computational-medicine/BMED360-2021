@@ -10,15 +10,13 @@
 =================================
 
 
+### Quantiphyse 
+
 **We recommend exploration of `Quantiphys` - a viewer and data processing tool for 3D/4D medical imaging data**
 
 Developed by the _Physimals group_, University of Nottingham. 
 The Physimals group applies inference (estimation) techniques from information engineering to biomedical data, primarily with a view to clinical application.
 
-
------------------------
-
-### Quantiphyse 
 
 - NOTE: you shlould make and use a new virtual environment `qp` other than `bmed360` (see below)
 
