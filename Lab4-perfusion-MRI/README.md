@@ -96,4 +96,4 @@ Overview of the proposed deep learning architecture. Top left: The network takes
 
 
 
-
+- J.W. Sanders et al. Synthetic generation of DSC-MRI-derived relative CBV maps from DCE MRI of brain tumors. Magn Reson Med 2021;85(1):469-479 [[online](https://onlinelibrary.wiley.com/doi/epdf/10.1002/mrm.28432)] (Code: https://github.com/jeremiahws/dlae)
