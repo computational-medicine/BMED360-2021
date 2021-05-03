@@ -86,4 +86,7 @@ On Mac you will also need to do:
 
 - N. Debs et al. Impact of the reperfusion status for predicting the final stroke infarct using deep learning. Neuroimage Clin 2021;29:102548 [[online](https://pubmed.ncbi.nlm.nih.gov/33450521)]
 
-https://ars.els-cdn.com/content/image/1-s2.0-S2213158220303855-ga1_lrg.jpg
+
+<img alt="Debs et al. 2021 Graphical abstract" src="https://ars.els-cdn.com/content/image/1-s2.0-S2213158220303855-ga1_lrg.jpg" width="800px" heigh="auto">
+Graphical abstract.
+
