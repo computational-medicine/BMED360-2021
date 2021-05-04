@@ -6,7 +6,7 @@
 - [**01-dce-mri-kidney-explore.ipynb**](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab5-DCE-MRI/01-dce-mri-kidney-explore.ipynb)<a href="https://colab.research.google.com/github/computational-medicine/BMED360-2021/blob/main/Lab5-DCE-MRI/01-dce-mri-kidney-explore.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
   
-- [**02-dec-mri-rat-brain-tumor-explore.ipynb**](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab5-DEC-MRI/02-dce-mri-rat-brain-tumor-explore.ipynb)<a href="https://colab.research.google.com/github/computational-medicine/BMED360-2021/blob/main/Lab5-DCE-MRI/02-dce-mri-rat-brain-tumor-explore.ipynb">
+- [**02-dec-mri-rat-brain-tumor-explore.ipynb**](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab5-DCE-MRI/02-dce-mri-rat-brain-tumor-explore.ipynb)<a href="https://colab.research.google.com/github/computational-medicine/BMED360-2021/blob/main/Lab5-DCE-MRI/02-dce-mri-rat-brain-tumor-explore.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
   
 ==================================================
