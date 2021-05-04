@@ -19,4 +19,4 @@
 
 (from the Berlin meeting on [Functional Renal Imaging: Where Physiology, Nephrology, Radiology and Physics Meet](https://www.mdc-berlin.de/renal))
 
-See [[here](https://github.com/arvidl/dce-mri-renal-pathophysiology#readme)] and the [[PDF](https://github.com/arvidl/dce-mri-renal-pathophysiology/blob/master/presentation/lundervold_what_DCE_MRI_can(not)_tell_us_about_renal_pathophysiology_Berlin_20171012.pdf)] presentation.
+See [[here](https://github.com/arvidl/dce-mri-renal-pathophysiology#readme)] and the [[PDF](https://github.com/arvidl/dce-mri-renal-pathophysiology/blob/master/presentation/lundervold_what_DCE_MRI_can(not)_tell_us_about_renal_pathophysiology_Berlin_20171012.pdf)] presentation, and a related presentation [[here](https://github.com/arvidl/functional-kidney-imaging#readme)].
