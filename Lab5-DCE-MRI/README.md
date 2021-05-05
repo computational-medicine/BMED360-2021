@@ -42,7 +42,7 @@ See [[here](https://github.com/arvidl/dce-mri-renal-pathophysiology#readme)] and
 
 - J. Nalepa et al. Fully-automated deep learning-powered system for DCE-MRI analysis of brain tumors. Artif Intell Med 2020;102:101769 [[online](https://www.sciencedirect.com/science/article/pii/S0933365718306638?via%3Dihub)]. 
  
-- **Other related information**: 
+- **Other relevant information**: 
   -   [Drafts of test images for DCE-MRI analysis that are part of the QIBA project](https://sites.duke.edu/dblab/qibacontent) and [Access Instructions](https://qibawiki.rsna.org/index.php/Synthetic_DCE-MRI_Data) 
   -   [NFBS Skull-Stripped Repository](http://preprocessed-connectomes-project.org/NFB_skullstripped)
   -   [Multi-vendor, multi-field-strength T1-weighted brain reconstructed data](https://sites.google.com/view/calgary-campinas-dataset/download) intended for developing data-driven automatic segmentation methods
