@@ -17,7 +17,7 @@
 
 
 
-See also **Neural Networks hands-on** by Peder Lillebostad in the CBM101 Open Educational Resources in Computational Biomedicine site:  https://github.com/oercompbiomed/CBM101/tree/master/H_Neural_Networks
+See also **Neural Networks hands-on** by Peder Lillebostad in the [CBM101](https://github.com/oercompbiomed/CBM101) [_Open Educational Resources in Computational Biomedicine_](https://ec.europa.eu/programmes/erasmus-plus/projects/eplus-project-details/#project/bc4e0bdb-aa64-4d5c-a7f2-26d68ec36647) site:  https://github.com/oercompbiomed/CBM101/tree/master/H_Neural_Networks
 
 
 ### Additional reading:
