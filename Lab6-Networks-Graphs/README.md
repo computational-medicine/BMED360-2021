@@ -19,6 +19,15 @@
 
 See also **Neural Networks hands-on** by Peder Lillebostad in the CBM101 Open Educational Resources in Computational Biomedicine site:  https://github.com/oercompbiomed/CBM101/tree/master/H_Neural_Networks
 
+
+**Additional reading :**<br>
+Barabasi, AL, Gulbache N, Loscalzo J. Network medicine: a network-based approach to human disease https://barabasi.com/f/320.pdf
+
+Hu JX, Thomas CE, Brunak S. Network biology concepts in complex disease co-morbidities. https://www.nature.com/articles/nrg.2016.87
+
+Barabasi AL, Oltvai ZN. Network biology: understanding the cell's functional organization. https://www.nature.com/articles/nrg1272
+
+
 ---------------------
 
 # Afternotes 
@@ -30,13 +39,6 @@ See also **Neural Networks hands-on** by Peder Lillebostad in the CBM101 Open Ed
 As a fundamental science, the purpose of biology is to describe nature and to understand how natural things work together. The purpose of biomedicine is to prevent and/or cure diseases caused by failures in the natural biological order. Hence, a biomedical expert has a completely different task: to predict how the biological system will respond to a (pharmacological) perturbation. This is analogous to the fundamental difference between a physicist, whose role is to understand and describe the physical laws underlying the natural order, and an engineer whose role is to use these laws to build an airplane that do actually fly. Hence, the engineer has to be able to quantitatively predict how the lift force that keeps the plane from falling down will respond to pressure, temperature or air fluxes changes during the flight, and to make sure that how the wings are designed optimizes this lift force. The problem faced in biomedicine is similar, yet the underlying laws that govern cell biology are poorly documented. 
 
 As illustrated in the Introduction, describing a cell biological system, even with the finest resolution, is insufficient to predict how it will respond to pharmacological perturbation. The correct language to make predictions is mathematics. 1000s of Newtons could have observed and documented millions of apples falling from apple trees: without the mathematical formulation of the Newton’s law of universal gravitation (Force proportional to mass1 times mass2 over distance squared), we would still be unable to predict how to tune satellites launching parameters to reach a geostationary orbit and there would be millions of useless telecom satellites all over the place in the solar system. 
-
-Additional reading :
-Barabasi, AL, Gulbache N, Loscalzo J. Network medicine: a network-based approach to human disease https://barabasi.com/f/320.pdf
-
-Hu JX, Thomas CE, Brunak S. Network biology concepts in complex disease co-morbidities. https://www.nature.com/articles/nrg.2016.87
-
-Barabasi AL, Oltvai ZN. Network biology: understanding the cell's functional organization. https://www.nature.com/articles/nrg1272
 
 
 ### Quantitative biomedicine
