@@ -13,7 +13,7 @@
 
 
 
-![networks-man-machine](./assets/BMED_360_Lec7_brain_connectivity_networks_man_machine.png)
+![networks](./assets/BMED_360_Lec7_brain_connectivity_networks_man_machine.png)
 
 
 ---------------------
