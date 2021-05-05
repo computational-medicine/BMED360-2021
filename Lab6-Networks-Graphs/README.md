@@ -11,6 +11,11 @@
 
 - [**Brain connectivity and fMRI**](Connectivity-fMRI.md)
 
+
+
+![networks-man-machine](./assets/BMED_360_Lec7_brain_connectivity_networks_man_machine.png)
+
+
 ---------------------
 
 ### Descriptive vs predictive biological sciences, systems-level analysis and predictive quantitative modeling of biological systems
