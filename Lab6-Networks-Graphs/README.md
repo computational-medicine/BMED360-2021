@@ -17,11 +17,13 @@
 
 
 
-See also **Neural Networks hands-on** by Peder Lillebostad in the CBM101 Open Educational Coursware site:  https://github.com/oercompbiomed/CBM101/tree/master/H_Neural_Networks
+See also **Neural Networks hands-on** by Peder Lillebostad in the CBM101 Open Educational Resources in Computational Biomedicine site:  https://github.com/oercompbiomed/CBM101/tree/master/H_Neural_Networks
 
 ---------------------
 
-# Afternote
+# Afternotes 
+
+(Adapted from Sylvain Tollis / Merja Heinäniemi and the Introduction to Computational Biomedicine and Machine Learning course [CBM101](https://github.com/oercompbiomed/CBM101))
 
 ### Descriptive vs predictive biological sciences, systems-level analysis and predictive quantitative modeling of biological systems
 
