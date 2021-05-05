@@ -20,7 +20,8 @@
 See also **Neural Networks hands-on** by Peder Lillebostad in the CBM101 Open Educational Resources in Computational Biomedicine site:  https://github.com/oercompbiomed/CBM101/tree/master/H_Neural_Networks
 
 
-**Additional reading :**<br>
+### Additional reading:
+
 Barabasi, AL, Gulbache N, Loscalzo J. Network medicine: a network-based approach to human disease https://barabasi.com/f/320.pdf
 
 Hu JX, Thomas CE, Brunak S. Network biology concepts in complex disease co-morbidities. https://www.nature.com/articles/nrg.2016.87
