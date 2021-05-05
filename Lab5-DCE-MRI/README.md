@@ -14,6 +14,7 @@
 
 <img alt="BMED_360_Lec6_vascular_permeability_dce_mri_model_based_analysis" src="https://https://github.com/computational-medicine/BMED360-2021/raw/main/Lab5-DCE-MRI/assets/BMED_360_Lec6_vascular_permeability_dce_mri_model_based_analysis.png" width="800px" heigh="auto">
 
+![link](./assets/BMED_360_Lec6_vascular_permeability_dce_mri_model_based_analysis.png)
 
 ## Software
 
