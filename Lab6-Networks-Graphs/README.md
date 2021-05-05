@@ -33,7 +33,7 @@ Barabasi AL, Oltvai ZN. Network biology: understanding the cell's functional org
 
 # Afternotes 
 
-(Adapted from Sylvain Tollis / Merja Heinäniemi and the _Introduction to Computational Biomedicine and Machine Learning_ course [CBM101](https://github.com/oercompbiomed/CBM101))
+(Adapted from Merja Heinäniemi / Sylvain Tollis  and the _Introduction to Computational Biomedicine and Machine Learning_ course [CBM101](https://github.com/oercompbiomed/CBM101))
 
 ### Network analysis
 
