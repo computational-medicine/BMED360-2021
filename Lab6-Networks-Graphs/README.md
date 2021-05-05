@@ -16,7 +16,12 @@
 ![networks](./assets/BMED_360_Lec7_brain_connectivity_networks_man_machine.png)
 
 
+
+See also **Neural Networks hands-on** by Peder Lillebostad in the CBM101 Open Educational Coursware site:  https://github.com/oercompbiomed/CBM101/tree/master/H_Neural_Networks
+
 ---------------------
+
+# Afternote
 
 ### Descriptive vs predictive biological sciences, systems-level analysis and predictive quantitative modeling of biological systems
 
