@@ -26,13 +26,6 @@
 - Ole Gunnar Johansen. DCE-MRI Pharmacokinetic Model Optimization and Implications for Brain Cancer Imaging. MSc thesis in Medical Physics and Biophysics, Department of Physics, University of Oslo. 2018.  Implementation in Python (https://github.com/olegjo/Masteroppgave) [[pdf](https://www.duo.uio.no/bitstream/handle/10852/61659/thesis_FINAL.pdf?sequence=1&isAllowed=y)]
 
 
-## What DCE MRI can(not) tell us about renal pathophysiology?
-
-(from the Berlin meeting on [Functional Renal Imaging: Where Physiology, Nephrology, Radiology and Physics Meet](https://www.mdc-berlin.de/renal))
-
-See [[here](https://github.com/arvidl/dce-mri-renal-pathophysiology#readme)] and the [[PDF](https://github.com/arvidl/dce-mri-renal-pathophysiology/blob/master/presentation/lundervold_what_DCE_MRI_can(not)_tell_us_about_renal_pathophysiology_Berlin_20171012.pdf)] presentation, and a related presentation [[here](https://github.com/arvidl/functional-kidney-imaging#readme)].
-
-
 ## Deep learning and DCE-MRI
 
 
@@ -53,3 +46,10 @@ See [[here](https://github.com/arvidl/dce-mri-renal-pathophysiology#readme)] and
 <img alt="Debs et al. 2021 Graphical abstract" src="https://ars.els-cdn.com/content/image/1-s2.0-S2213158220303855-ga1_lrg.jpg" width="800px" heigh="auto">
 Graphical abstract (CC BY-NC-ND 4.0) <img alt="Debs et al. 2021 Fig. 2" src="https://ars.els-cdn.com/content/image/1-s2.0-S2213158220303855-gr2_lrg.jpg" width="800px" heigh="auto"> Overview of the proposed deep learning architecture. Top left: The network takes five MRI images (2D slices from DWI, ADC, CBV, CBF, Tmax volumes) as input. Below: Each input image is processed independently on 5 separate branches. Pink, purple, yellow, red and green feature maps result from 2D-convolutions and maxpooling. The output of the 5 branches are then concatenated, and upsampled through 2D-deconvolution layers. The network produces an output map with 3 classes (lesion, healthy tissue and background). Top Right: The predicted lesion has to be compared to the true lesion from the final FLAIR. (CC BY-NC-ND 4.0)<br><br>
 -->
+
+
+## What DCE MRI can(not) tell us about renal pathophysiology?
+
+(from the Berlin meeting on [Functional Renal Imaging: Where Physiology, Nephrology, Radiology and Physics Meet](https://www.mdc-berlin.de/renal))
+
+See [[here](https://github.com/arvidl/dce-mri-renal-pathophysiology#readme)] and the [[PDF](https://github.com/arvidl/dce-mri-renal-pathophysiology/blob/master/presentation/lundervold_what_DCE_MRI_can(not)_tell_us_about_renal_pathophysiology_Berlin_20171012.pdf)] presentation, and a related presentation [[here](https://github.com/arvidl/functional-kidney-imaging#readme)].
