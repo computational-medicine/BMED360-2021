@@ -38,6 +38,10 @@ See [[here](https://github.com/arvidl/dce-mri-renal-pathophysiology#readme)] and
 
 - K.S. Choi et al. Improving the Reliability of Pharmacokinetic Parameters at Dynamic Contrast-enhanced MRI in Astrocytomas: A Deep Learning Approach. Radiology 2020;297(1):178-188 [[online](https://doi.org/10.1148/radiol.2020192763)]
 
+- J.W. Sanders et al. Synthetic generation of DSC-MRI-derived relative CBV maps from DCE MRI of brain tumors. Magn Reson Med 2021;85(1):469-479 [[link](https://pubmed.ncbi.nlm.nih.gov/32726488)]
+
+
+
 
 <!--
 - N. Debs et al. Impact of the reperfusion status for predicting the final stroke infarct using deep learning. Neuroimage Clin 2021;29:102548 [[online](https://pubmed.ncbi.nlm.nih.gov/33450521)]
