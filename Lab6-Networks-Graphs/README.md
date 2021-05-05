@@ -33,7 +33,13 @@ Barabasi AL, Oltvai ZN. Network biology: understanding the cell's functional org
 
 # Afternotes 
 
-(Adapted from Sylvain Tollis / Merja Heinäniemi and the Introduction to Computational Biomedicine and Machine Learning course [CBM101](https://github.com/oercompbiomed/CBM101))
+(Adapted from Sylvain Tollis / Merja Heinäniemi and the _Introduction to Computational Biomedicine and Machine Learning_ course [CBM101](https://github.com/oercompbiomed/CBM101))
+
+### Network analysis
+
+- https://github.com/oercompbiomed/CBM101/blob/master/D_Network_analysis/assets/p1.md
+- https://github.com/oercompbiomed/CBM101/blob/master/D_Network_analysis/assets/p2.md
+
 
 ### Descriptive vs predictive biological sciences, systems-level analysis and predictive quantitative modeling of biological systems
 
