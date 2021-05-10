@@ -22,7 +22,7 @@
 [<img src="https://img.youtube.com/vi/rAbNbpcUNdY/maxresdefault.jpg" width="50%">](https://youtu.be/rAbNbpcUNdY)
 -->
 
-[![Watch the video](https://img.youtube.com/vi/rAbNbpcUNdY/maxresdefault.jpg)](https://youtu.be/rAbNbpcUNdY)
+[![Watch the session video](https://img.youtube.com/vi/rAbNbpcUNdY/hqdefault.jpg)](https://youtu.be/rAbNbpcUNdY)
 
 <!--
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rAbNbpcUNdY" 
