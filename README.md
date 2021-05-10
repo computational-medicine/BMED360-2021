@@ -105,6 +105,7 @@ Throughout the course you will work with notebooks that contain various material
   - [[README](https://github.com/computational-medicine/BMED360-2021/tree/main/Lab6-Networks-Graphs#readme)]
   - [[Lab6-01-Concepts-in-network-theory](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab6-Networks-Graphs/01-Concepts-in-network-theory.ipynb)]  
   - [[Lab6-02-Network-based-statistics](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab6-Networks-Graphs/02-Network-based-statistics.ipynb)]
+  - [[Lab6-03-resting-state-fmri-expore](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab6-Networks-Graphs/03-resting-state-fmri-explore.ipynb)]
   - [[Connectivity-fMRI](./Lab6-Networks-Graphs/Connectivity-fMRI.md)] (brain connectivity and fMRI -  concepts, software, and data)
 
 
