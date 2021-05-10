@@ -32,7 +32,7 @@ frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; pict
 
 Video from the lecture on _Networks, Graphs, fMRI and brain connectivity_:<br>
 
-![<img src="https://img.youtube.com/vi/rAbNbpcUNdY/hqdefault.jpg" width="50%">](https://youtu.be/rAbNbpcUNdY)
+[![Watch the session video](https://img.youtube.com/vi/rAbNbpcUNdY/hqdefault.jpg)](https://youtu.be/rAbNbpcUNdY)
 
 <br>
 
