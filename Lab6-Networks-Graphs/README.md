@@ -18,13 +18,18 @@
 
 ![networks](./assets/BMED_360_Lec7_brain_connectivity_networks_man_machine.png)
 
-
+<!--
 [<img src="https://img.youtube.com/vi/rAbNbpcUNdY/maxresdefault.jpg" width="50%">](https://youtu.be/rAbNbpcUNdY)
+-->
 
+[![Watch the video](https://img.youtube.com/vi/rAbNbpcUNdY/maxresdefault.jpg)](https://youtu.be/rAbNbpcUNdY)
+
+<!--
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rAbNbpcUNdY" 
 frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
-
+<br>
+-->
 
 See also **Neural Networks hands-on** by Peder Lillebostad at the [CBM101](https://github.com/oercompbiomed/CBM101) [_Open Educational Resources in Computational Biomedicine_](https://ec.europa.eu/programmes/erasmus-plus/projects/eplus-project-details/#project/bc4e0bdb-aa64-4d5c-a7f2-26d68ec36647) site:  https://github.com/oercompbiomed/CBM101/tree/master/H_Neural_Networks
 
