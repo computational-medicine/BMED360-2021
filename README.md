@@ -2,7 +2,7 @@
 
 ## ( with [_ad hoc_](https://github.com/computational-medicine/BMED360-2021/tree/main/Outbreak-Science-Extra#readme) curriculum* on COVID-19 and "outbreak science" )
 
-[Work in progress ver. 2021-04-28]
+[Work in progress ver. 2021-05-10]
 
 ![BMED360 image](./assets/bmed360_logo.png)
 
