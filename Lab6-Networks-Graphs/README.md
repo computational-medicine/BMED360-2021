@@ -26,8 +26,11 @@ frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; pict
 </iframe>
 -->
 
-Video form the lecture on Networks, Graphs, fMRI and brain connectivity:<br>
+Video from the lecture on _Networks, Graphs, fMRI and brain connectivity_:<br>
+<div align="center">
 [![Watch the session video](https://img.youtube.com/vi/rAbNbpcUNdY/hqdefault.jpg)](https://youtu.be/rAbNbpcUNdY)
+</div>
+
 <br>
 
 
