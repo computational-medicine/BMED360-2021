@@ -19,6 +19,7 @@
 ![networks](./assets/BMED_360_Lec7_brain_connectivity_networks_man_machine.png)
 
 
+[<img src="https://img.youtube.com/vi/rAbNbpcUNdY/maxresdefault.jpg" width="50%">](https://youtu.be/rAbNbpcUNdY)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rAbNbpcUNdY" 
 frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
