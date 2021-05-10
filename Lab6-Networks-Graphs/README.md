@@ -25,14 +25,14 @@
 frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 
+<div align="center">
 [![Watch the session video](https://img.youtube.com/vi/rAbNbpcUNdY/hqdefault.jpg)](https://youtu.be/rAbNbpcUNdY)
+ </div> 
 -->
 
 Video from the lecture on _Networks, Graphs, fMRI and brain connectivity_:<br>
 
-<div align="center">
-[<img src="https://img.youtube.com/vi/rAbNbpcUNdY/hqdefault.jpg" width="50%">](https://youtu.be/rAbNbpcUNdY)
-</div>
+![<img src="https://img.youtube.com/vi/rAbNbpcUNdY/hqdefault.jpg" width="50%">](https://youtu.be/rAbNbpcUNdY)
 
 <br>
 
