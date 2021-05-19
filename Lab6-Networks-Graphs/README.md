@@ -9,7 +9,7 @@
 - [**02-Network-based-statistics.ipynb**](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab6-Networks-Graphs/02-Network-based-statistics.ipynb) <a href="https://colab.research.google.com/github/computational-medicine/BMED360-2021/blob/main/Lab6-Networks-Graphs/02-Network-based-statistics.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
-- [**03-Resting-state-fmri-explore.ipynb**](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab6-Networks-Graphs/03-resting-state-fmri-explore.ipynb) <a href="https://colab.research.google.com/github/computational-medicine/BMED360-2021/blob/main/Lab6-Networks-Graphs/03-Resting-state-fmri-explore.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+- [**03-resting-state-fmri-explore.ipynb**](https://nbviewer.jupyter.org/github/computational-medicine/BMED360-2021/blob/main/Lab6-Networks-Graphs/03-resting-state-fmri-explore.ipynb) <a href="https://colab.research.google.com/github/computational-medicine/BMED360-2021/blob/main/Lab6-Networks-Graphs/03-resting-state-fmri-explore.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
 - [**Brain connectivity and fMRI**](Connectivity-fMRI.md)
@@ -18,6 +18,23 @@
 
 ![networks](./assets/BMED_360_Lec7_brain_connectivity_networks_man_machine.png)
 
+<!--
+[<img src="https://img.youtube.com/vi/rAbNbpcUNdY/maxresdefault.jpg" width="50%">](https://youtu.be/rAbNbpcUNdY)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rAbNbpcUNdY" 
+frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+
+<div align="center">
+[![Watch the session video](https://img.youtube.com/vi/rAbNbpcUNdY/hqdefault.jpg)](https://youtu.be/rAbNbpcUNdY)
+ </div> 
+-->
+
+Video from the lecture on _Networks, Graphs, fMRI and brain connectivity_:<br>
+
+--- Zoom recording 2021-05-10 ---> [![Watch the session video](https://img.youtube.com/vi/rAbNbpcUNdY/hqdefault.jpg)](https://youtu.be/rAbNbpcUNdY)
+
+<br>
 
 
 See also **Neural Networks hands-on** by Peder Lillebostad at the [CBM101](https://github.com/oercompbiomed/CBM101) [_Open Educational Resources in Computational Biomedicine_](https://ec.europa.eu/programmes/erasmus-plus/projects/eplus-project-details/#project/bc4e0bdb-aa64-4d5c-a7f2-26d68ec36647) site:  https://github.com/oercompbiomed/CBM101/tree/master/H_Neural_Networks
