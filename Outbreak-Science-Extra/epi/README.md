@@ -30,3 +30,5 @@ One of the most important probems in epidemiology is to ascertain whether this t
   
 - **Mathemtics of life and death: How disease models shape national shutdowns and other pandemic policies** Science (news) March 25 2020
  by M Enserink & K Kupferschmidt [[link](https://www.sciencemag.org/news/2020/03/mathematics-life-and-death-how-disease-models-shape-national-shutdowns-and-other)]
+
+- **Epidemic Outbreak and graph-theory" by _je-suis-tm_ https://github.com/je-suis-tm/graph-theory/blob/master/Epidemic%20Outbreak%20project/README.md
