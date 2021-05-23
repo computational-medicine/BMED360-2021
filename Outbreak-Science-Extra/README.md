@@ -39,7 +39,7 @@
   - **How ventilators work** [video at [STATnews](https://www.statnews.com/2020/04/21/coronavirus-analysis-recommends-less-reliance-on-ventilators/?jwsource)]. For [pathophysiology](https://en.wikipedia.org/wiki/Pathophysiology) of COVID-19, see also the review by A.M. Dondorp et al. _Respiratory support in novel coronavirus disease (COVID-19) patients, with a focus on resource-limited settings_. Am J Trop Med Hyg.  April 21, 2020   [[onlline](https://www.ajtmh.org/content/journals/10.4269/ajtmh.20-0283)] [[pdf](https://www.ajtmh.org/deliver/fulltext/10.4269/ajtmh.20-0283/tpmd200283.pdf?itemId=%2Fcontent%2Fjournals%2F10.4269%2Fajtmh.20-0283&mimeType=pdf&containerItemId=content/astmh)]
   - **Lessons learned (or, may be not)** The next outbreak? We’re not ready, [TED talk](https://www.ted.com) by Bill Gates, Apr 3 2015 (https://youtu.be/6Af6b_wyiwI)
   
-  ### Web sites
+  ### Web sites / Repositories
    - **WHO Coronavirus disease (COVID-19) Pandemic** (https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
    - **Johns Hopkins University CORONAVIRUS RESOURCE CENTER** (https://coronavirus.jhu.edu) see also https://github.com/CSSEGISandData/COVID-19
    - **Highlights of Expert Panel on COVID-19 from Harvard, MIT, Mass General Hospital** (https://www.justsecurity.org/69202/highlights-of-expert-panel-on-covid-19-from-harvard-mit-mass-general)
@@ -55,6 +55,7 @@
 Computational biology at the Biozentrum, Basel: https://github.com/topics/sars-cov-2. See also [covid19_scenarios](https://github.com/neherlab/covid19_scenarios) and [covid19_scenarios_data](https://github.com/neherlab/covid19_scenarios_data)
    - **COVID-19 Datasets for Machine Learning** (curated Google Docs list by [Mila](https://docs.google.com/document/d/1Wkvbf2t2Da87NtNvMJf_PRqv9zLHyqqtRitBIGGKKNM/edit#))
    - **Introduction to Computational Thinking with Julia, with applications to modelling the COVID-19 pandemic** mitmath/6S083: Materials for MIT 6.S083 / 18.S190; Spring 2020 (https://github.com/mitmath/6S083)
+   - **Epidemic Outbreak project (graph-theory)** by [_je-suis-tm_](https://je-suis-tm.github.io):  (https://github.com/je-suis-tm/graph-theory/tree/master/Epidemic%20Outbreak%20project). Uses Numba and multiprocessing to speed up the [Gillespie Algorithm](https://en.wikipedia.org/wiki/Gillespie_algorithm) [[ref](https://pubs.acs.org/doi/abs/10.1021/j100540a008)] for simulating the change of each agent at each discrete step w.r.t. the underlying equations for the stochastic process (SIR model) for which the reaction rates are known (also used heavily in computational systems biology).
  
 
 ### Online slides (and some tools)
@@ -72,4 +73,4 @@ Computational biology at the Biozentrum, Basel: https://github.com/topics/sars-c
  - imaging ([img](./img/README_img.md))<br>
 
 
-Last updated: 28 April 2021 (A.L)
+Last updated: 23 May 2021 (A.L)
