@@ -44,6 +44,8 @@
    - **Johns Hopkins University CORONAVIRUS RESOURCE CENTER** (https://coronavirus.jhu.edu) see also https://github.com/CSSEGISandData/COVID-19
    - **Highlights of Expert Panel on COVID-19 from Harvard, MIT, Mass General Hospital** (https://www.justsecurity.org/69202/highlights-of-expert-panel-on-covid-19-from-harvard-mit-mass-general)
    - **COVID Scholar from the Lawrence Berkeley National Laboratory** COVID-19 literature search [powered](https://covidscholar.org/about) by advanced [NLP](https://en.wikipedia.org/wiki/Natural_language_processing) algorithms (https://covidscholar.org)
+   - **Epidemic Outbreak project (graph-theory)** by [_je-suis-tm_](https://je-suis-tm.github.io):  (https://github.com/je-suis-tm/graph-theory/tree/master/Epidemic%20Outbreak%20project). Uses Numba and multiprocessing to speed up the [Gillespie Algorithm](https://en.wikipedia.org/wiki/Gillespie_algorithm) [[ref](https://pubs.acs.org/doi/abs/10.1021/j100540a008)] for simulating the change of each agent at each discrete step w.r.t. the underlying equations for the stochastic process (SIR model) for which the reaction rates are known (also used heavily in computational systems biology).
+ 
   
   ### Data and challenges (for educational use)
    - **Fighting Covid-19 Challenge** Medical imaging is potentially well suited for Covid-19 diagnosis. "This challenge is about connecting the best brains to support doctors with artificial intelligence systems" (https://www.covid19challenge.eu)
@@ -55,7 +57,7 @@
 Computational biology at the Biozentrum, Basel: https://github.com/topics/sars-cov-2. See also [covid19_scenarios](https://github.com/neherlab/covid19_scenarios) and [covid19_scenarios_data](https://github.com/neherlab/covid19_scenarios_data)
    - **COVID-19 Datasets for Machine Learning** (curated Google Docs list by [Mila](https://docs.google.com/document/d/1Wkvbf2t2Da87NtNvMJf_PRqv9zLHyqqtRitBIGGKKNM/edit#))
    - **Introduction to Computational Thinking with Julia, with applications to modelling the COVID-19 pandemic** mitmath/6S083: Materials for MIT 6.S083 / 18.S190; Spring 2020 (https://github.com/mitmath/6S083)
-   - **Epidemic Outbreak project (graph-theory)** by [_je-suis-tm_](https://je-suis-tm.github.io):  (https://github.com/je-suis-tm/graph-theory/tree/master/Epidemic%20Outbreak%20project). Uses Numba and multiprocessing to speed up the [Gillespie Algorithm](https://en.wikipedia.org/wiki/Gillespie_algorithm) [[ref](https://pubs.acs.org/doi/abs/10.1021/j100540a008)] for simulating the change of each agent at each discrete step w.r.t. the underlying equations for the stochastic process (SIR model) for which the reaction rates are known (also used heavily in computational systems biology).
+
  
 
 ### Online slides (and some tools)
